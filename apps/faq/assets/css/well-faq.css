@@ -1,0 +1,57 @@
+.faqwell.skin-1 .faqwell-faq{ width:100%; height:auto; margin-bottom:20px; background: #ffffff; }
+.faqwell.skin-1 .faqwell-faq-title{
+	border: 1px solid #ddd;
+	display: block;
+	position: relative;
+	padding: 10px 0px 10px 15px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	cursor: pointer;
+	overflow: hidden;
+}
+.faqwell.skin-1 .faqwell-faq-title .faq-icon{ margin: -2px 8px 0 0px; opacity: 0.4; font-size:120%; }
+.faqwell.skin-1 .faqwell-faq-title .iconShow{ margin-top: 4px; }
+.faqwell.skin-1 .faqwell-faq-title .iconhide{ display:none; margin-top: 4px; }
+.faqwell.skin-1 .faqwell-faq-title.active{ border-radius: 3px 3px 0px 0px;}
+.faqwell.skin-1 .faqwell-faq-title.active .iconShow{ display:none; margin-top: 4px; }
+.faqwell.skin-1 .faqwell-faq-title.active .iconhide{ display:block; margin-top: 4px; }
+.faqwell.skin-1 .faqwell-faq-title span{ float:right; padding-right:15px; }
+.faqwell.skin-1 .faqwell-faq-details{
+	
+	margin: 0;
+	-webkit-border-radius: 0px 0px 3px 3px;
+	-moz-border-radius: 0px 0px 3px 3px;
+	border-radius: 0px 0px 3px 3px;
+	-webkit-box-shadow: 0px 1px 1px 0px rgba(180, 180, 180, 0.1);
+	-moz-box-shadow: 0px 1px 1px 0px rgba(180, 180, 180, 0.1);
+	box-shadow: 0px 1px 1px 0px rgba(180, 180, 180, 0.1);
+	border: 1px solid #ddd;
+	border-top: 0;
+	padding: 14px 20px 0px 20px;
+	display: none;
+}
+.faqwell.skin-1 .faqwell-faq .faqwell-faq-details p{ margin-top:0px; }
+
+
+
+/************************************************
+      Pagenav
+************************************************/
+.faqwell.skin-1 .wp-mixitup-grid-pagenav {clear: both; }
+.faqwell.skin-1 .wp-mixitup-grid-pagenav.padding_top{ padding-top:30px; }
+.faqwell.skin-1 .wp-mixitup-grid-pagenav.padding_button{ padding-bottom:30px; }
+.faqwell.skin-1 .wp-mixitup-grid-pagenav.center{ text-align:center; width:100%; }
+.faqwell.skin-1 .wp-mixitup-grid-pagenav span,
+.faqwell.skin-1 .wp-mixitup-grid-pagenav a {border: 1px solid #EEEEEE; padding: 5px 10px; text-decoration:none; color:inherit;}
+.faqwell.skin-1 .wp-mixitup-grid-pagenav a:hover {border: 1px solid #DDDDDD;}
+.faqwell.skin-1 .wp-mixitup-grid-pagenav span.current {background: #FAFAFA; color: inherit; font-weight: 600;}
+
+
+/*filter
+-----------*/
+/*.zookit_grid_filter_ok{opacity: 0; display: none; }*/
+.faqwell.skin-1 ul.wp-mixitup-grid-filter{ list-style-type:none; margin:0; padding:0; margin-bottom:10px; }
+.faqwell.skin-1 ul.wp-mixitup-grid-filter li.filter{ display:inline-block; list-style-type:none; margin:0; padding:0; cursor:pointer; margin:5px 3px; padding:3px 10px; background:#73b819; border-radius:4px; color:#FFF; }
+.faqwell.skin-1 ul.wp-mixitup-grid-filter li.filter.active{ background:rgb(97, 97, 97); }
+.faqwell.skin-1 ul.wp-mixitup-grid-filter li.filter:hover{ opacity: .6; }

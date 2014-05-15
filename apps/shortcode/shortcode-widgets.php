@@ -1,0 +1,17 @@
+<?php
+require_once('widgets/accordion.php');
+require_once('widgets/alert.php');
+require_once('widgets/checklist.php');
+require_once('widgets/icon_content.php');
+require_once('widgets/text-block.php');
+require_once('widgets/divider.php');
+require_once('widgets/image.php');
+require_once('widgets/map.php');
+require_once('widgets/counter_circle.php');
+require_once('widgets/counter_box.php');
+require_once('widgets/progress_bar.php');
+require_once('widgets/tab.php');
+require_once('widgets/tagline-box.php');
+require_once('widgets/vimeo.php');
+require_once('widgets/youtube.php');
+require_once('widgets/audio.php');
