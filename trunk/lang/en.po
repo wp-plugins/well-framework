@@ -1,0 +1,3834 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Well Framwork\n"
+"POT-Creation-Date: 2014-04-12 11:57+0600\n"
+"PO-Revision-Date: 2014-04-12 11:57+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../acoc/classes/post-type-register-class.php:41
+msgid "Add New Acoc"
+msgstr ""
+
+#: ../acoc/classes/post-type-register-class.php:42
+msgid "New Acoc"
+msgstr ""
+
+#: ../acoc/classes/post-type-register-class.php:43
+msgid "Edit Acoc"
+msgstr ""
+
+#: ../acoc/classes/post-type-register-class.php:44
+msgid "View Acoc"
+msgstr ""
+
+#: ../acoc/classes/post-type-register-class.php:45
+msgid "All Acocs"
+msgstr ""
+
+#: ../acoc/classes/post-type-register-class.php:46
+msgid "Search Acocs"
+msgstr ""
+
+#: ../acoc/classes/post-type-register-class.php:47
+msgid "Parent Acocs:"
+msgstr ""
+
+#: ../acoc/classes/post-type-register-class.php:48
+msgid "No Acocs found."
+msgstr ""
+
+#: ../acoc/classes/post-type-register-class.php:49
+msgid "No Acocs found in Trash."
+msgstr ""
+
+#: ../acoc/demos/post-column-demo.php:7 ../apps/doc/metaboxes/doc-items.php:7
+#: ../apps/faq/widgets/faqwell-carousel-widget.php:13
+#: ../apps/faq/widgets/faqwell-grid-widget.php:13
+#: ../apps/faq/widgets/faqwell-slideshow-widget.php:13
+#: ../apps/gallery/metaboxes/gallery.php:16
+#: ../apps/gallery/widgets/gallery-archive-carousel-widget.php:13
+#: ../apps/gallery/widgets/gallery-archive-grid-widget.php:13
+#: ../apps/gallery/widgets/gallery-archive-slideshow-widget.php:13
+#: ../apps/gallery/widgets/gallery-single-carousel-widget.php:13
+#: ../apps/gallery/widgets/gallery-single-grid-widget.php:13
+#: ../apps/gallery/widgets/gallery-single-slideshow-widget.php:13
+#: ../apps/logos/metaboxes/gallery.php:16
+#: ../apps/logos/widgets/logowell-carousel-widget.php:13
+#: ../apps/logos/widgets/logowell-grid-widget.php:13
+#: ../apps/logos/widgets/logowell-slideshow-widget.php:13
+#: ../apps/people/widgets/peowell-carousel-widget.php:13
+#: ../apps/people/widgets/peowell-grid-widget.php:13
+#: ../apps/people/widgets/peowell-slideshow-widget.php:13
+#: ../apps/portfolio/widgets/portfolio-carousel-widget.php:13
+#: ../apps/portfolio/widgets/portfolio-grid-widget.php:13
+#: ../apps/portfolio/widgets/portfolio-slideshow-widget.php:13
+#: ../apps/shortcode/tinymce/alert-TinyMCE.php:11
+#: ../apps/shortcode/tinymce/heading-TinyMCE.php:11
+#: ../apps/shortcode/tinymce/icon-content-TinyMCE.php:22
+#: ../apps/shortcode/tinymce/lightbox-TinyMCE.php:31
+#: ../apps/shortcode/tinymce/tagline-box-TinyMCE.php:11
+#: ../apps/shortcode/tinymce/text-block-TinyMCE.php:11
+#: ../apps/shortcode/tinymce/toggle-TinyMCE.php:11
+#: ../apps/shortcode/tinymce/tooltip-TinyMCE.php:11
+#: ../apps/shortcode/vc-blocks/alert.php:15
+#: ../apps/shortcode/vc-blocks/heading.php:15
+#: ../apps/shortcode/vc-blocks/icon_content.php:24
+#: ../apps/shortcode/vc-blocks/tagline-box.php:15
+#: ../apps/shortcode/vc-blocks/text-block.php:15
+#: ../apps/shortcode/widgets/accordion.php:13
+#: ../apps/shortcode/widgets/alert.php:13
+#: ../apps/shortcode/widgets/audio.php:13
+#: ../apps/shortcode/widgets/checklist.php:13
+#: ../apps/shortcode/widgets/counter_box.php:13
+#: ../apps/shortcode/widgets/counter_circle.php:13
+#: ../apps/shortcode/widgets/icon_content.php:12
+#: ../apps/shortcode/widgets/map.php:13
+#: ../apps/shortcode/widgets/progress_bar.php:13
+#: ../apps/shortcode/widgets/tab.php:13
+#: ../apps/shortcode/widgets/tagline-box.php:13
+#: ../apps/shortcode/widgets/text-block.php:12
+#: ../apps/shortcode/widgets/vimeo.php:13
+#: ../apps/shortcode/widgets/youtube.php:13
+#: ../apps/testimonial/widgets/testimonial-carousel-widget.php:13
+#: ../apps/testimonial/widgets/testimonial-grid-widget.php:13
+#: ../apps/testimonial/widgets/testimonial-slideshow-widget.php:13
+#: ../includes/TinyMCE-framework/example/alert-TinyMCE.php:11
+#: ../includes/wph-widget-class/widget-sample.php:46
+msgid "Title"
+msgstr ""
+
+#: ../acoc/demos/post-column-demo.php:15
+msgid "Thumb"
+msgstr ""
+
+#: ../acoc/demos/post-column-demo.php:23
+msgid "Custom Taxonomy"
+msgstr ""
+
+#: ../acoc/demos/post-column-demo.php:31
+msgid "Custom Field"
+msgstr ""
+
+#: ../apps/doc/doc-metabox.php:4
+msgid "Doc Items"
+msgstr ""
+
+#: ../apps/doc/doc-metabox.php:12 ../apps/doc/doc-metabox.php:20
+msgid "Display Title"
+msgstr ""
+
+#: ../apps/doc/doc-shortcodes.php:125
+msgid "Back To Top"
+msgstr ""
+
+#: ../apps/doc/doc-theme-compat.php:72
+msgid "Doc Archive"
+msgstr ""
+
+#: ../apps/doc/doc-theme-compat.php:76
+msgid "Doc Category: "
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:4
+msgid "Docs "
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:5
+msgid "Doc"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:6 ../apps/doc/doc-typs.php:40
+#: ../apps/faq/faq-typs.php:6 ../apps/gallery/gallery-typs.php:6
+#: ../apps/logos/logos-typs.php:6 ../apps/people/people-typs.php:6
+#: ../apps/portfolio/portfolio-typs.php:6
+#: ../apps/testimonial/testimonial-typs.php:6
+msgid "Add New"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:7
+msgid "Add New Doc"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:8
+msgid "Edit Doc"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:9
+msgid "New Doc"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:10
+msgid "All Docs"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:11
+msgid "View Docs"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:12
+msgid "Search Docs"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:13
+msgid "No Docs found"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:14
+msgid "No Docs found in Trash"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:16
+msgid "Well Doc"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:38 ../apps/doc/doc-typs.php:39
+#: ../apps/doc/doc-typs.php:50
+msgid "Doc Content"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:41
+msgid "Add New Doc Content"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:42
+msgid "Edit Doc Content"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:43
+msgid "New Doc Content"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:44
+msgid "All Doc Content"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:45
+msgid "View Doc Content"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:46
+msgid "Search Doc Content"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:47
+msgid "No Doc Content found"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:48
+msgid "No Doc Content found in Trash"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:72
+msgid "Doc Categories"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:73
+msgid "Doc Category"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:74
+msgid "Search Doc Categories"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:75
+msgid "Popular Doc Categories"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:76
+msgid "All Doc Categories"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:77
+msgid "Edit Doc Category"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:78
+msgid "Update Doc Category"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:79
+msgid "Add New Doc Category"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:80
+msgid "New Doc Category Name"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:81
+msgid "Separate Doc Categories with commas"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:82
+msgid "Add or remove Doc Categories"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:83
+msgid "Choose from the most used Doc Categories"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:84
+msgid "No Doc Categories found."
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:85 ../apps/faq/faq-typs.php:52
+#: ../apps/gallery/gallery-typs.php:52 ../apps/logos/logos-typs.php:52
+#: ../apps/people/people-typs.php:52 ../apps/portfolio/portfolio-typs.php:52
+#: ../apps/testimonial/testimonial-typs.php:52
+msgid "Categories"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:99 ../apps/doc/doc-typs.php:100
+msgid "Doc Group"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:101
+msgid "Search Doc Group"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:102
+msgid "Popular Doc Group"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:103
+msgid "All Doc Group"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:104
+msgid "Edit Doc Group"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:105
+msgid "Update Doc Group"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:106
+msgid "Add New Doc Group"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:107
+msgid "New Doc Group Name"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:108
+msgid "Separate Doc Group with commas"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:109
+msgid "Add or remove Doc Group"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:110
+msgid "Choose from the most used Doc Group"
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:111
+msgid "No Doc Group found."
+msgstr ""
+
+#: ../apps/doc/doc-typs.php:112 ../apps/doc/doc-typs.php:136
+msgid "Group"
+msgstr ""
+
+#: ../apps/doc/metaboxes/doc-items.php:2
+msgid "Click on the <code>\"Add New Doc Item\"</code> Button to add new Doc."
+msgstr ""
+
+#: ../apps/doc/metaboxes/doc-items.php:15
+msgid "Add New Doc Item"
+msgstr ""
+
+#: ../apps/doc/templates/single-item.php:5
+#: ../apps/portfolio/templates/single-item.php:5
+msgid "Project Description"
+msgstr ""
+
+#: ../apps/doc/templates/single-item.php:10
+#: ../apps/portfolio/templates/single-item.php:10
+msgid "Project Details"
+msgstr ""
+
+#: ../apps/doc/templates/single-item.php:13
+#: ../apps/portfolio/portfolio-metabox.php:25
+#: ../apps/portfolio/templates/single-item.php:13
+msgid "Skills Needed"
+msgstr ""
+
+#: ../apps/doc/templates/single-item.php:19
+#: ../apps/portfolio/templates/single-item.php:19
+msgid "Categories Needed"
+msgstr ""
+
+#: ../apps/doc/templates/single-item.php:25
+#: ../apps/portfolio/templates/single-item.php:25
+msgid "Project URL"
+msgstr ""
+
+#: ../apps/doc/templates/single-item.php:27
+#: ../apps/portfolio/templates/single-item.php:27
+msgid "View Project"
+msgstr ""
+
+#: ../apps/doc/templates/single-item.php:31
+#: ../apps/portfolio/templates/single-item.php:31
+msgid "Copyright"
+msgstr ""
+
+#: ../apps/doc/tinymce/carousel.php:10 ../apps/doc/tinymce/grid.php:10
+#: ../apps/doc/tinymce/slideshow.php:10
+#: ../apps/faq/widgets/faqwell-carousel-widget.php:21
+#: ../apps/faq/widgets/faqwell-slideshow-widget.php:21
+#: ../apps/portfolio/tinymce/carousel.php:10
+#: ../apps/portfolio/tinymce/grid.php:10
+#: ../apps/portfolio/tinymce/slideshow.php:10
+#: ../apps/portfolio/widgets/portfolio-carousel-widget.php:21
+#: ../apps/portfolio/widgets/portfolio-grid-widget.php:21
+#: ../apps/portfolio/widgets/portfolio-slideshow-widget.php:21
+msgid "Portfolio IDs"
+msgstr ""
+
+#: ../apps/doc/tinymce/carousel.php:21 ../apps/doc/tinymce/grid.php:21
+#: ../apps/doc/tinymce/slideshow.php:21 ../apps/faq/tinymce/grid.php:21
+#: ../apps/faq/widgets/faqwell-carousel-widget.php:30
+#: ../apps/faq/widgets/faqwell-grid-widget.php:30
+#: ../apps/faq/widgets/faqwell-slideshow-widget.php:30
+#: ../apps/gallery/tinymce/archive-carousel.php:21
+#: ../apps/gallery/tinymce/archive-grid.php:21
+#: ../apps/gallery/tinymce/archive-slideshow.php:21
+#: ../apps/gallery/widgets/gallery-archive-carousel-widget.php:30
+#: ../apps/gallery/widgets/gallery-archive-grid-widget.php:30
+#: ../apps/gallery/widgets/gallery-archive-slideshow-widget.php:30
+#: ../apps/logos/tinymce/carousel.php:21 ../apps/logos/tinymce/grid.php:21
+#: ../apps/logos/tinymce/slideshow.php:21
+#: ../apps/logos/widgets/logowell-carousel-widget.php:30
+#: ../apps/logos/widgets/logowell-grid-widget.php:30
+#: ../apps/logos/widgets/logowell-slideshow-widget.php:30
+#: ../apps/people/tinymce/carousel.php:21 ../apps/people/tinymce/grid.php:21
+#: ../apps/people/tinymce/slideshow.php:21
+#: ../apps/people/widgets/peowell-carousel-widget.php:30
+#: ../apps/people/widgets/peowell-grid-widget.php:30
+#: ../apps/people/widgets/peowell-slideshow-widget.php:30
+#: ../apps/portfolio/tinymce/carousel.php:21
+#: ../apps/portfolio/tinymce/grid.php:21
+#: ../apps/portfolio/tinymce/slideshow.php:21
+#: ../apps/portfolio/widgets/portfolio-carousel-widget.php:30
+#: ../apps/portfolio/widgets/portfolio-grid-widget.php:30
+#: ../apps/portfolio/widgets/portfolio-slideshow-widget.php:30
+#: ../apps/shortcode/tinymce/post-list-TinyMCE.php:21
+#: ../apps/testimonial/tinymce/carousel.php:21
+#: ../apps/testimonial/tinymce/grid.php:21
+#: ../apps/testimonial/tinymce/slideshow.php:21
+#: ../apps/testimonial/widgets/testimonial-carousel-widget.php:30
+#: ../apps/testimonial/widgets/testimonial-grid-widget.php:30
+#: ../apps/testimonial/widgets/testimonial-slideshow-widget.php:30
+msgid "Category"
+msgstr ""
+
+#: ../apps/doc/tinymce/carousel.php:33
+#: ../apps/gallery/tinymce/archive-carousel.php:33
+#: ../apps/gallery/tinymce/single-carousel.php:21
+#: ../apps/logos/tinymce/carousel.php:33
+#: ../apps/people/tinymce/carousel.php:33
+#: ../apps/portfolio/tinymce/carousel.php:33
+#: ../apps/testimonial/tinymce/carousel.php:33
+msgid "Item margin"
+msgstr ""
+
+#: ../apps/doc/tinymce/carousel.php:44
+#: ../apps/gallery/tinymce/archive-carousel.php:44
+#: ../apps/gallery/tinymce/single-carousel.php:32
+#: ../apps/logos/tinymce/carousel.php:44
+#: ../apps/people/tinymce/carousel.php:44
+#: ../apps/portfolio/tinymce/carousel.php:44
+#: ../apps/testimonial/tinymce/carousel.php:44
+msgid "Min items"
+msgstr ""
+
+#: ../apps/doc/tinymce/carousel.php:55
+#: ../apps/gallery/tinymce/archive-carousel.php:55
+#: ../apps/gallery/tinymce/single-carousel.php:43
+#: ../apps/logos/tinymce/carousel.php:55
+#: ../apps/people/tinymce/carousel.php:55
+#: ../apps/portfolio/tinymce/carousel.php:55
+#: ../apps/testimonial/tinymce/carousel.php:55
+msgid "Max items"
+msgstr ""
+
+#: ../apps/doc/tinymce/grid.php:33 ../apps/doc/tinymce/slideshow.php:33
+#: ../apps/faq/tinymce/grid.php:33 ../apps/gallery/tinymce/archive-grid.php:33
+#: ../apps/gallery/tinymce/archive-slideshow.php:33
+#: ../apps/logos/tinymce/grid.php:33 ../apps/logos/tinymce/slideshow.php:33
+#: ../apps/people/tinymce/grid.php:33 ../apps/people/tinymce/slideshow.php:33
+#: ../apps/portfolio/tinymce/grid.php:33
+#: ../apps/portfolio/tinymce/slideshow.php:33
+#: ../apps/shortcode/tinymce/post-list-TinyMCE.php:33
+#: ../apps/testimonial/tinymce/grid.php:33
+#: ../apps/testimonial/tinymce/slideshow.php:33
+msgid "Post Limit"
+msgstr ""
+
+#: ../apps/doc/tinymce/grid.php:44 ../apps/faq/tinymce/grid.php:44
+#: ../apps/faq/widgets/faqwell-grid-widget.php:60
+#: ../apps/gallery/tinymce/archive-grid.php:44
+#: ../apps/gallery/widgets/gallery-archive-grid-widget.php:84
+#: ../apps/logos/tinymce/grid.php:44
+#: ../apps/logos/widgets/logowell-grid-widget.php:84
+#: ../apps/people/tinymce/grid.php:44
+#: ../apps/people/widgets/peowell-grid-widget.php:84
+#: ../apps/portfolio/tinymce/grid.php:44
+#: ../apps/portfolio/widgets/portfolio-grid-widget.php:84
+#: ../apps/shortcode/tinymce/post-list-TinyMCE.php:44
+#: ../apps/testimonial/tinymce/grid.php:44
+#: ../apps/testimonial/widgets/testimonial-grid-widget.php:84
+msgid "Pagination"
+msgstr ""
+
+#: ../apps/doc/tinymce/grid.php:55 ../apps/gallery/tinymce/archive-grid.php:55
+#: ../apps/gallery/tinymce/single-grid.php:21
+#: ../apps/gallery/widgets/gallery-archive-grid-widget.php:60
+#: ../apps/gallery/widgets/gallery-single-grid-widget.php:29
+#: ../apps/logos/tinymce/grid.php:55
+#: ../apps/logos/widgets/logowell-grid-widget.php:60
+#: ../apps/people/tinymce/grid.php:55
+#: ../apps/people/widgets/peowell-grid-widget.php:60
+#: ../apps/portfolio/tinymce/grid.php:55
+#: ../apps/portfolio/widgets/portfolio-grid-widget.php:60
+#: ../apps/shortcode/tinymce/post-list-TinyMCE.php:55
+#: ../apps/testimonial/tinymce/grid.php:55
+#: ../apps/testimonial/widgets/testimonial-grid-widget.php:60
+msgid "Columns"
+msgstr ""
+
+#: ../apps/doc/tinymce/grid.php:66 ../apps/gallery/gallery-vc.php:72
+#: ../apps/gallery/gallery-vc.php:250
+#: ../apps/gallery/tinymce/archive-grid.php:66
+#: ../apps/gallery/tinymce/single-grid.php:32
+#: ../apps/gallery/widgets/gallery-archive-grid-widget.php:75
+#: ../apps/gallery/widgets/gallery-single-grid-widget.php:44
+#: ../apps/logos/logos-vc.php:69 ../apps/logos/tinymce/grid.php:66
+#: ../apps/logos/widgets/logowell-grid-widget.php:75
+#: ../apps/people/people-vc.php:69 ../apps/people/tinymce/grid.php:66
+#: ../apps/people/widgets/peowell-grid-widget.php:75
+#: ../apps/portfolio/portfolio-vc.php:69 ../apps/portfolio/tinymce/grid.php:66
+#: ../apps/portfolio/widgets/portfolio-grid-widget.php:75
+#: ../apps/shortcode/tinymce/post-list-TinyMCE.php:66
+#: ../apps/shortcode/vc-blocks/post-gallery.php:46
+#: ../apps/shortcode/vc-blocks/post-list.php:68
+#: ../apps/testimonial/testimonial-vc.php:69
+#: ../apps/testimonial/tinymce/grid.php:66
+#: ../apps/testimonial/widgets/testimonial-grid-widget.php:75
+msgid "Column Margin"
+msgstr ""
+
+#: ../apps/doc/tinymce/grid.php:77 ../apps/faq/tinymce/grid.php:77
+#: ../apps/faq/widgets/faqwell-grid-widget.php:39
+#: ../apps/gallery/tinymce/archive-grid.php:77
+#: ../apps/gallery/widgets/gallery-archive-grid-widget.php:39
+#: ../apps/logos/tinymce/grid.php:77
+#: ../apps/logos/widgets/logowell-grid-widget.php:39
+#: ../apps/people/tinymce/grid.php:77
+#: ../apps/people/widgets/peowell-grid-widget.php:39
+#: ../apps/portfolio/tinymce/grid.php:77
+#: ../apps/portfolio/widgets/portfolio-grid-widget.php:39
+#: ../apps/shortcode/tinymce/post-list-TinyMCE.php:77
+#: ../apps/testimonial/tinymce/grid.php:77
+#: ../apps/testimonial/widgets/testimonial-grid-widget.php:39
+msgid "Filter"
+msgstr ""
+
+#: ../apps/doc/tinymce/single.php:10 ../apps/portfolio/tinymce/single.php:10
+msgid "Portfolio ID"
+msgstr ""
+
+#: ../apps/faq/faq-theme-compat.php:72
+msgid "F.A.Q Archive"
+msgstr ""
+
+#: ../apps/faq/faq-theme-compat.php:76
+msgid "F.A.Q Category: "
+msgstr ""
+
+#: ../apps/faq/faq-typs.php:4
+msgid "FAQs "
+msgstr ""
+
+#: ../apps/faq/faq-typs.php:5 ../apps/faq/faq-vc.php:4
+msgid "FAQ"
+msgstr ""
+
+#: ../apps/faq/faq-typs.php:7
+msgid "Add New FAQ"
+msgstr ""
+
+#: ../apps/faq/faq-typs.php:8
+msgid "Edit FAQ"
+msgstr ""
+
+#: ../apps/faq/faq-typs.php:9
+msgid "New FAQ"
+msgstr ""
+
+#: ../apps/faq/faq-typs.php:10
+msgid "All FAQs"
+msgstr ""
+
+#: ../apps/faq/faq-typs.php:11
+msgid "View FAQs"
+msgstr ""
+
+#: ../apps/faq/faq-typs.php:12
+msgid "Search FAQs"
+msgstr ""
+
+#: ../apps/faq/faq-typs.php:13
+msgid "No FAQs found"
+msgstr ""
+
+#: ../apps/faq/faq-typs.php:14
+msgid "No FAQs found in Trash"
+msgstr ""
+
+#: ../apps/faq/faq-typs.php:16
+msgid "F.A.Q"
+msgstr ""
+
+#: ../apps/faq/faq-typs.php:39
+msgid "FAQ Categories"
+msgstr ""
+
+#: ../apps/faq/faq-typs.php:40 ../apps/faq/faq-vc.php:15
+msgid "FAQ Category"
+msgstr ""
+
+#: ../apps/faq/faq-typs.php:41
+msgid "Search FAQ Categories"
+msgstr ""
+
+#: ../apps/faq/faq-typs.php:42
+msgid "Popular FAQ Categories"
+msgstr ""
+
+#: ../apps/faq/faq-typs.php:43
+msgid "All FAQ Categories"
+msgstr ""
+
+#: ../apps/faq/faq-typs.php:44
+msgid "Edit FAQ Category"
+msgstr ""
+
+#: ../apps/faq/faq-typs.php:45
+msgid "Update FAQ Category"
+msgstr ""
+
+#: ../apps/faq/faq-typs.php:46
+msgid "Add New FAQ Category"
+msgstr ""
+
+#: ../apps/faq/faq-typs.php:47
+msgid "New FAQ Category Name"
+msgstr ""
+
+#: ../apps/faq/faq-typs.php:48
+msgid "Separate FAQ Categories with commas"
+msgstr ""
+
+#: ../apps/faq/faq-typs.php:49
+msgid "Add or remove FAQ Categories"
+msgstr ""
+
+#: ../apps/faq/faq-typs.php:50
+msgid "Choose from the most used FAQ Categories"
+msgstr ""
+
+#: ../apps/faq/faq-typs.php:51
+msgid "No FAQ Categories found."
+msgstr ""
+
+#: ../apps/faq/faq-vc.php:7 ../apps/gallery/gallery-vc.php:7
+#: ../apps/gallery/gallery-vc.php:98 ../apps/gallery/gallery-vc.php:137
+#: ../apps/gallery/gallery-vc.php:218 ../apps/gallery/gallery-vc.php:262
+#: ../apps/gallery/gallery-vc.php:283 ../apps/logos/logos-vc.php:7
+#: ../apps/logos/logos-vc.php:99 ../apps/logos/logos-vc.php:138
+#: ../apps/people/people-vc.php:7 ../apps/people/people-vc.php:99
+#: ../apps/people/people-vc.php:138 ../apps/people/people-vc.php:219
+#: ../apps/portfolio/portfolio-vc.php:7 ../apps/portfolio/portfolio-vc.php:99
+#: ../apps/portfolio/portfolio-vc.php:138
+#: ../apps/portfolio/portfolio-vc.php:219
+#: ../apps/shortcode/tinymce/alert-TinyMCE.php:43
+#: ../apps/shortcode/tinymce/checklist-TinyMCE.php:65
+#: ../apps/shortcode/tinymce/column-TinyMCE.php:42
+#: ../apps/shortcode/tinymce/counter-box-TinyMCE.php:22
+#: ../apps/shortcode/tinymce/counter-circle-TinyMCE.php:44
+#: ../apps/shortcode/tinymce/dropcap-TinyMCE.php:21
+#: ../apps/shortcode/tinymce/highlight-TinyMCE.php:22
+#: ../apps/shortcode/tinymce/icon-content-TinyMCE.php:43
+#: ../apps/shortcode/tinymce/lightbox-TinyMCE.php:42
+#: ../apps/shortcode/tinymce/parallax-TinyMCE.php:144
+#: ../apps/shortcode/tinymce/progress-bar-TinyMCE.php:44
+#: ../apps/shortcode/tinymce/tab-TinyMCE.php:11
+#: ../apps/shortcode/tinymce/tagline-box-TinyMCE.php:143
+#: ../apps/shortcode/tinymce/text-block-TinyMCE.php:22
+#: ../apps/shortcode/tinymce/toggle-TinyMCE.php:32
+#: ../apps/shortcode/tinymce/tooltip-TinyMCE.php:22
+#: ../apps/shortcode/vc-blocks/alert.php:7
+#: ../apps/shortcode/vc-blocks/alert.php:50
+#: ../apps/shortcode/vc-blocks/audio.php:7
+#: ../apps/shortcode/vc-blocks/button.php:7
+#: ../apps/shortcode/vc-blocks/checklist.php:7
+#: ../apps/shortcode/vc-blocks/checklist.php:71
+#: ../apps/shortcode/vc-blocks/counter_box.php:7
+#: ../apps/shortcode/vc-blocks/counter_box.php:24
+#: ../apps/shortcode/vc-blocks/counter_circle.php:7
+#: ../apps/shortcode/vc-blocks/counter_circle.php:42
+#: ../apps/shortcode/vc-blocks/divider.php:7
+#: ../apps/shortcode/vc-blocks/font-awesome.php:7
+#: ../apps/shortcode/vc-blocks/heading.php:7
+#: ../apps/shortcode/vc-blocks/icon_content.php:7
+#: ../apps/shortcode/vc-blocks/icon_content.php:48
+#: ../apps/shortcode/vc-blocks/map.php:7
+#: ../apps/shortcode/vc-blocks/post-gallery.php:7
+#: ../apps/shortcode/vc-blocks/post-list.php:7
+#: ../apps/shortcode/vc-blocks/progress_bar.php:7
+#: ../apps/shortcode/vc-blocks/progress_bar.php:42
+#: ../apps/shortcode/vc-blocks/tagline-box.php:7
+#: ../apps/shortcode/vc-blocks/tagline-box.php:151
+#: ../apps/shortcode/vc-blocks/text-block.php:7
+#: ../apps/shortcode/vc-blocks/text-block.php:24
+#: ../apps/shortcode/vc-blocks/vimeo.php:7
+#: ../apps/shortcode/vc-blocks/youtube.php:7
+#: ../apps/shortcode/widgets/accordion.php:21
+#: ../apps/shortcode/widgets/alert.php:35
+#: ../apps/shortcode/widgets/checklist.php:21
+#: ../apps/shortcode/widgets/counter_box.php:29
+#: ../apps/shortcode/widgets/counter_circle.php:45
+#: ../apps/shortcode/widgets/icon_content.php:43
+#: ../apps/shortcode/widgets/progress_bar.php:45
+#: ../apps/shortcode/widgets/tab.php:21
+#: ../apps/shortcode/widgets/tagline-box.php:140
+#: ../apps/shortcode/widgets/text-block.php:20
+#: ../apps/testimonial/testimonial-vc.php:7
+#: ../apps/testimonial/testimonial-vc.php:99
+#: ../apps/testimonial/testimonial-vc.php:138
+#: ../includes/TinyMCE-framework/example/alert-TinyMCE.php:43
+msgid "Content"
+msgstr ""
+
+#: ../apps/faq/faq-vc.php:19
+msgid "Select a Category to display FAQ items form that category"
+msgstr ""
+
+#: ../apps/faq/faq-vc.php:25 ../apps/gallery/gallery-vc.php:25
+#: ../apps/logos/logos-vc.php:34 ../apps/people/people-vc.php:34
+#: ../apps/portfolio/portfolio-vc.php:34
+#: ../apps/shortcode/vc-blocks/post-list.php:34
+#: ../apps/testimonial/testimonial-vc.php:34
+msgid "Enable Category Filtering"
+msgstr ""
+
+#: ../apps/faq/faq-vc.php:28 ../apps/faq/faq-vc.php:50
+#: ../apps/gallery/gallery-vc.php:28 ../apps/gallery/gallery-vc.php:50
+#: ../apps/logos/logos-vc.php:37 ../apps/logos/logos-vc.php:87
+#: ../apps/people/people-vc.php:37 ../apps/people/people-vc.php:87
+#: ../apps/portfolio/portfolio-vc.php:37 ../apps/portfolio/portfolio-vc.php:87
+#: ../apps/shortcode/vc-blocks/alert.php:42
+#: ../apps/shortcode/vc-blocks/button.php:171
+#: ../apps/shortcode/vc-blocks/checklist.php:63
+#: ../apps/shortcode/vc-blocks/icon_content.php:84
+#: ../apps/shortcode/vc-blocks/post-list.php:37
+#: ../apps/shortcode/vc-blocks/post-list.php:86
+#: ../apps/shortcode/vc-blocks/tagline-box.php:74
+#: ../apps/shortcode/vc-blocks/tagline-box.php:134
+#: ../apps/testimonial/testimonial-vc.php:37
+#: ../apps/testimonial/testimonial-vc.php:87
+msgid "No"
+msgstr ""
+
+#: ../apps/faq/faq-vc.php:29 ../apps/faq/faq-vc.php:49
+#: ../apps/gallery/gallery-vc.php:29 ../apps/gallery/gallery-vc.php:49
+#: ../apps/logos/logos-vc.php:38 ../apps/logos/logos-vc.php:86
+#: ../apps/people/people-vc.php:38 ../apps/people/people-vc.php:86
+#: ../apps/portfolio/portfolio-vc.php:38 ../apps/portfolio/portfolio-vc.php:86
+#: ../apps/shortcode/vc-blocks/alert.php:41
+#: ../apps/shortcode/vc-blocks/button.php:170
+#: ../apps/shortcode/vc-blocks/checklist.php:62
+#: ../apps/shortcode/vc-blocks/post-list.php:38
+#: ../apps/shortcode/vc-blocks/post-list.php:85
+#: ../apps/shortcode/vc-blocks/tagline-box.php:73
+#: ../apps/shortcode/vc-blocks/tagline-box.php:133
+#: ../apps/testimonial/testimonial-vc.php:38
+#: ../apps/testimonial/testimonial-vc.php:86
+msgid "Yes"
+msgstr ""
+
+#: ../apps/faq/faq-vc.php:37 ../apps/shortcode/vc-blocks/post-list.php:46
+msgid "Post limit"
+msgstr ""
+
+#: ../apps/faq/faq-vc.php:46 ../apps/gallery/gallery-vc.php:46
+#: ../apps/logos/logos-vc.php:83 ../apps/people/people-vc.php:83
+#: ../apps/portfolio/portfolio-vc.php:83
+#: ../apps/shortcode/vc-blocks/post-list.php:82
+#: ../apps/testimonial/testimonial-vc.php:83
+msgid "Enable Pagination"
+msgstr ""
+
+#: ../apps/faq/faq-vc.php:58 ../apps/gallery/gallery-vc.php:86
+#: ../apps/gallery/gallery-vc.php:125 ../apps/gallery/gallery-vc.php:206
+#: ../apps/logos/logos-vc.php:15 ../apps/logos/logos-vc.php:107
+#: ../apps/logos/logos-vc.php:146 ../apps/people/people-vc.php:15
+#: ../apps/people/people-vc.php:107 ../apps/people/people-vc.php:146
+#: ../apps/people/people-vc.php:228 ../apps/portfolio/portfolio-vc.php:15
+#: ../apps/portfolio/portfolio-vc.php:107
+#: ../apps/portfolio/portfolio-vc.php:146
+#: ../apps/shortcode/vc-blocks/post-list.php:15
+#: ../apps/testimonial/testimonial-vc.php:15
+#: ../apps/testimonial/testimonial-vc.php:107
+#: ../apps/testimonial/testimonial-vc.php:146
+msgid "IDs"
+msgstr ""
+
+#: ../apps/faq/faq-vc.php:61 ../apps/gallery/gallery-vc.php:89
+#: ../apps/gallery/gallery-vc.php:128 ../apps/gallery/gallery-vc.php:209
+#: ../apps/gallery/gallery-vc.php:230 ../apps/gallery/gallery-vc.php:253
+#: ../apps/logos/logos-vc.php:18 ../apps/logos/logos-vc.php:110
+#: ../apps/logos/logos-vc.php:149 ../apps/people/people-vc.php:18
+#: ../apps/people/people-vc.php:110 ../apps/people/people-vc.php:149
+#: ../apps/people/people-vc.php:231 ../apps/portfolio/portfolio-vc.php:18
+#: ../apps/portfolio/portfolio-vc.php:110
+#: ../apps/portfolio/portfolio-vc.php:149
+#: ../apps/portfolio/portfolio-vc.php:231
+#: ../apps/shortcode/vc-blocks/post-list.php:18
+#: ../apps/testimonial/testimonial-vc.php:18
+#: ../apps/testimonial/testimonial-vc.php:110
+#: ../apps/testimonial/testimonial-vc.php:149
+msgid "example: 1, 2, 3"
+msgstr ""
+
+#: ../apps/faq/tinymce/grid.php:10
+msgid "Faq IDs"
+msgstr ""
+
+#: ../apps/faq/widgets/faqwell-carousel-widget.php:7
+#: ../apps/portfolio/widgets/portfolio-carousel-widget.php:7
+msgid "Portfolio Carousel (well)"
+msgstr ""
+
+#: ../apps/faq/widgets/faqwell-carousel-widget.php:8
+#: ../apps/portfolio/widgets/portfolio-carousel-widget.php:8
+msgid "Show portfolio item on carousel style"
+msgstr ""
+
+#: ../apps/faq/widgets/faqwell-carousel-widget.php:18
+#: ../apps/faq/widgets/faqwell-slideshow-widget.php:18
+#: ../apps/portfolio/widgets/portfolio-carousel-widget.php:18
+#: ../apps/portfolio/widgets/portfolio-grid-widget.php:18
+#: ../apps/portfolio/widgets/portfolio-slideshow-widget.php:18
+msgid "Recent Portfolios"
+msgstr ""
+
+#: ../apps/faq/widgets/faqwell-carousel-widget.php:22
+#: ../apps/faq/widgets/faqwell-grid-widget.php:22
+#: ../apps/faq/widgets/faqwell-slideshow-widget.php:22
+#: ../apps/gallery/widgets/gallery-archive-carousel-widget.php:22
+#: ../apps/gallery/widgets/gallery-archive-grid-widget.php:22
+#: ../apps/gallery/widgets/gallery-archive-slideshow-widget.php:22
+#: ../apps/gallery/widgets/gallery-single-grid-widget.php:22
+#: ../apps/gallery/widgets/gallery-single-slideshow-widget.php:22
+#: ../apps/logos/widgets/logowell-carousel-widget.php:22
+#: ../apps/logos/widgets/logowell-grid-widget.php:22
+#: ../apps/logos/widgets/logowell-slideshow-widget.php:22
+#: ../apps/people/widgets/peowell-carousel-widget.php:22
+#: ../apps/people/widgets/peowell-grid-widget.php:22
+#: ../apps/people/widgets/peowell-slideshow-widget.php:22
+#: ../apps/portfolio/widgets/portfolio-carousel-widget.php:22
+#: ../apps/portfolio/widgets/portfolio-grid-widget.php:22
+#: ../apps/portfolio/widgets/portfolio-slideshow-widget.php:22
+#: ../apps/testimonial/widgets/testimonial-carousel-widget.php:22
+#: ../apps/testimonial/widgets/testimonial-grid-widget.php:22
+#: ../apps/testimonial/widgets/testimonial-slideshow-widget.php:22
+msgid "Example: <code>1,2,3</code>"
+msgstr ""
+
+#: ../apps/faq/widgets/faqwell-carousel-widget.php:31
+#: ../apps/faq/widgets/faqwell-slideshow-widget.php:31
+#: ../apps/portfolio/widgets/portfolio-carousel-widget.php:31
+#: ../apps/portfolio/widgets/portfolio-grid-widget.php:31
+#: ../apps/portfolio/widgets/portfolio-slideshow-widget.php:31
+msgid "Select a Portfolio category"
+msgstr ""
+
+#: ../apps/faq/widgets/faqwell-carousel-widget.php:39
+#: ../apps/gallery/gallery-vc.php:164 ../apps/gallery/gallery-vc.php:301
+#: ../apps/gallery/widgets/gallery-archive-carousel-widget.php:39
+#: ../apps/gallery/widgets/gallery-single-carousel-widget.php:30
+#: ../apps/logos/logos-vc.php:174
+#: ../apps/logos/widgets/logowell-carousel-widget.php:39
+#: ../apps/people/people-vc.php:174
+#: ../apps/people/widgets/peowell-carousel-widget.php:39
+#: ../apps/portfolio/portfolio-vc.php:174
+#: ../apps/portfolio/widgets/portfolio-carousel-widget.php:39
+#: ../apps/testimonial/testimonial-vc.php:174
+#: ../apps/testimonial/widgets/testimonial-carousel-widget.php:39
+msgid "Item Margin"
+msgstr ""
+
+#: ../apps/faq/widgets/faqwell-carousel-widget.php:48
+#: ../apps/gallery/widgets/gallery-archive-carousel-widget.php:48
+#: ../apps/gallery/widgets/gallery-single-carousel-widget.php:39
+#: ../apps/logos/widgets/logowell-carousel-widget.php:48
+#: ../apps/people/widgets/peowell-carousel-widget.php:48
+#: ../apps/portfolio/widgets/portfolio-carousel-widget.php:48
+#: ../apps/testimonial/widgets/testimonial-carousel-widget.php:48
+msgid "Minimum Items"
+msgstr ""
+
+#: ../apps/faq/widgets/faqwell-carousel-widget.php:57
+#: ../apps/gallery/widgets/gallery-archive-carousel-widget.php:57
+#: ../apps/gallery/widgets/gallery-single-carousel-widget.php:48
+#: ../apps/logos/widgets/logowell-carousel-widget.php:57
+#: ../apps/people/widgets/peowell-carousel-widget.php:57
+#: ../apps/portfolio/widgets/portfolio-carousel-widget.php:57
+#: ../apps/testimonial/widgets/testimonial-carousel-widget.php:57
+msgid "Maximum Items"
+msgstr ""
+
+#: ../apps/faq/widgets/faqwell-grid-widget.php:7
+msgid "FAQ (well)"
+msgstr ""
+
+#: ../apps/faq/widgets/faqwell-grid-widget.php:8
+msgid "Show Well item "
+msgstr ""
+
+#: ../apps/faq/widgets/faqwell-grid-widget.php:18
+msgid "Recent FAQs"
+msgstr ""
+
+#: ../apps/faq/widgets/faqwell-grid-widget.php:21
+msgid "FAQ IDs"
+msgstr ""
+
+#: ../apps/faq/widgets/faqwell-grid-widget.php:31
+msgid "Select a FAQ category"
+msgstr ""
+
+#: ../apps/faq/widgets/faqwell-grid-widget.php:40
+#: ../apps/gallery/widgets/gallery-archive-grid-widget.php:40
+#: ../apps/logos/widgets/logowell-grid-widget.php:40
+#: ../apps/people/widgets/peowell-grid-widget.php:40
+#: ../apps/portfolio/widgets/portfolio-grid-widget.php:40
+#: ../apps/testimonial/widgets/testimonial-grid-widget.php:40
+msgid "do you want to enable filter?"
+msgstr ""
+
+#: ../apps/faq/widgets/faqwell-grid-widget.php:51
+#: ../apps/faq/widgets/faqwell-slideshow-widget.php:39
+#: ../apps/gallery/widgets/gallery-archive-grid-widget.php:51
+#: ../apps/gallery/widgets/gallery-archive-slideshow-widget.php:39
+#: ../apps/logos/widgets/logowell-grid-widget.php:51
+#: ../apps/logos/widgets/logowell-slideshow-widget.php:39
+#: ../apps/people/widgets/peowell-grid-widget.php:51
+#: ../apps/people/widgets/peowell-slideshow-widget.php:39
+#: ../apps/portfolio/widgets/portfolio-grid-widget.php:51
+#: ../apps/portfolio/widgets/portfolio-slideshow-widget.php:39
+#: ../apps/testimonial/widgets/testimonial-grid-widget.php:51
+#: ../apps/testimonial/widgets/testimonial-slideshow-widget.php:39
+msgid "Limit"
+msgstr ""
+
+#: ../apps/faq/widgets/faqwell-grid-widget.php:52
+#: ../apps/faq/widgets/faqwell-slideshow-widget.php:40
+#: ../apps/gallery/widgets/gallery-archive-grid-widget.php:52
+#: ../apps/gallery/widgets/gallery-archive-slideshow-widget.php:40
+#: ../apps/logos/widgets/logowell-grid-widget.php:52
+#: ../apps/logos/widgets/logowell-slideshow-widget.php:40
+#: ../apps/people/widgets/peowell-grid-widget.php:52
+#: ../apps/people/widgets/peowell-slideshow-widget.php:40
+#: ../apps/portfolio/widgets/portfolio-grid-widget.php:52
+#: ../apps/portfolio/widgets/portfolio-slideshow-widget.php:40
+#: ../apps/testimonial/widgets/testimonial-grid-widget.php:52
+#: ../apps/testimonial/widgets/testimonial-slideshow-widget.php:40
+msgid "How many Items you want to show?"
+msgstr ""
+
+#: ../apps/faq/widgets/faqwell-grid-widget.php:61
+#: ../apps/gallery/widgets/gallery-archive-grid-widget.php:85
+#: ../apps/logos/widgets/logowell-grid-widget.php:85
+#: ../apps/people/widgets/peowell-grid-widget.php:85
+#: ../apps/portfolio/widgets/portfolio-grid-widget.php:85
+#: ../apps/testimonial/widgets/testimonial-grid-widget.php:85
+msgid "do you want to enable pagination?"
+msgstr ""
+
+#: ../apps/faq/widgets/faqwell-slideshow-widget.php:7
+#: ../apps/portfolio/widgets/portfolio-slideshow-widget.php:7
+msgid "Portfolio Slideshow (well)"
+msgstr ""
+
+#: ../apps/faq/widgets/faqwell-slideshow-widget.php:8
+#: ../apps/portfolio/widgets/portfolio-slideshow-widget.php:8
+msgid "Show portfolio item on slideshow style"
+msgstr ""
+
+#: ../apps/gallery/gallery-metabox.php:4
+msgid "Gallery Items"
+msgstr ""
+
+#: ../apps/gallery/gallery-shortcodes.php:48
+#: ../apps/gallery/gallery-shortcodes.php:98
+#: ../apps/gallery/gallery-shortcodes.php:134
+#: ../apps/slideshow/slideshow.php:291
+msgid "No ID given in the shortcode"
+msgstr ""
+
+#: ../apps/gallery/gallery-theme-compat.php:72
+msgid "Gallery Archive"
+msgstr ""
+
+#: ../apps/gallery/gallery-theme-compat.php:76
+msgid "Gallery Category: "
+msgstr ""
+
+#: ../apps/gallery/gallery-typs.php:4
+msgid "Galleries "
+msgstr ""
+
+#: ../apps/gallery/gallery-typs.php:5
+msgid "Gallery"
+msgstr ""
+
+#: ../apps/gallery/gallery-typs.php:7
+msgid "Add New Gallery"
+msgstr ""
+
+#: ../apps/gallery/gallery-typs.php:8
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../apps/gallery/gallery-typs.php:9
+msgid "New Gallery"
+msgstr ""
+
+#: ../apps/gallery/gallery-typs.php:10
+msgid "All Galleries"
+msgstr ""
+
+#: ../apps/gallery/gallery-typs.php:11
+msgid "View Galleries"
+msgstr ""
+
+#: ../apps/gallery/gallery-typs.php:12
+msgid "Search Galleries"
+msgstr ""
+
+#: ../apps/gallery/gallery-typs.php:13
+msgid "No Galleries found"
+msgstr ""
+
+#: ../apps/gallery/gallery-typs.php:14
+msgid "No Galleries found in Trash"
+msgstr ""
+
+#: ../apps/gallery/gallery-typs.php:16
+msgid "Galleries"
+msgstr ""
+
+#: ../apps/gallery/gallery-typs.php:39
+msgid "Gallery Categories"
+msgstr ""
+
+#: ../apps/gallery/gallery-typs.php:40 ../apps/gallery/gallery-vc.php:15
+#: ../apps/gallery/gallery-vc.php:106 ../apps/gallery/gallery-vc.php:145
+msgid "Gallery Category"
+msgstr ""
+
+#: ../apps/gallery/gallery-typs.php:41
+msgid "Search Gallery Categories"
+msgstr ""
+
+#: ../apps/gallery/gallery-typs.php:42
+msgid "Popular Gallery Categories"
+msgstr ""
+
+#: ../apps/gallery/gallery-typs.php:43
+msgid "All Gallery Categories"
+msgstr ""
+
+#: ../apps/gallery/gallery-typs.php:44
+msgid "Edit Gallery Category"
+msgstr ""
+
+#: ../apps/gallery/gallery-typs.php:45
+msgid "Update Gallery Category"
+msgstr ""
+
+#: ../apps/gallery/gallery-typs.php:46
+msgid "Add New Gallery Category"
+msgstr ""
+
+#: ../apps/gallery/gallery-typs.php:47
+msgid "New Gallery Category Name"
+msgstr ""
+
+#: ../apps/gallery/gallery-typs.php:48
+msgid "Separate Gallery Categories with commas"
+msgstr ""
+
+#: ../apps/gallery/gallery-typs.php:49
+msgid "Add or remove Gallery Categories"
+msgstr ""
+
+#: ../apps/gallery/gallery-typs.php:50
+msgid "Choose from the most used Gallery Categories"
+msgstr ""
+
+#: ../apps/gallery/gallery-typs.php:51
+msgid "No Gallery Categories found."
+msgstr ""
+
+#: ../apps/gallery/gallery-vc.php:4
+msgid "Gallery Archive [Grid]"
+msgstr ""
+
+#: ../apps/gallery/gallery-vc.php:19 ../apps/gallery/gallery-vc.php:110
+#: ../apps/gallery/gallery-vc.php:149
+msgid "Select a Category to display Galery items form that category"
+msgstr ""
+
+#: ../apps/gallery/gallery-vc.php:31
+msgid "Select No if you select a category to display Gallery items"
+msgstr ""
+
+#: ../apps/gallery/gallery-vc.php:37 ../apps/gallery/gallery-vc.php:116
+#: ../apps/gallery/gallery-vc.php:155
+msgid "Gallery limit"
+msgstr ""
+
+#: ../apps/gallery/gallery-vc.php:58 ../apps/gallery/gallery-vc.php:236
+#: ../apps/logos/logos-vc.php:55 ../apps/people/people-vc.php:55
+#: ../apps/portfolio/portfolio-vc.php:55
+#: ../apps/shortcode/vc-blocks/post-list.php:55
+#: ../apps/testimonial/testimonial-vc.php:55
+msgid "Column"
+msgstr ""
+
+#: ../apps/gallery/gallery-vc.php:61 ../apps/gallery/gallery-vc.php:78
+#: ../apps/gallery/gallery-vc.php:181 ../apps/gallery/gallery-vc.php:198
+#: ../apps/gallery/gallery-vc.php:239 ../apps/gallery/gallery-vc.php:318
+#: ../apps/gallery/gallery-vc.php:335 ../apps/logos/logos-vc.php:58
+#: ../apps/logos/logos-vc.php:75 ../apps/logos/logos-vc.php:191
+#: ../apps/logos/logos-vc.php:209 ../apps/people/people-vc.php:58
+#: ../apps/people/people-vc.php:75 ../apps/people/people-vc.php:191
+#: ../apps/people/people-vc.php:208 ../apps/portfolio/portfolio-vc.php:59
+#: ../apps/portfolio/portfolio-vc.php:75
+#: ../apps/portfolio/portfolio-vc.php:191
+#: ../apps/portfolio/portfolio-vc.php:208
+#: ../apps/shortcode/vc-blocks/post-gallery.php:36
+#: ../apps/shortcode/vc-blocks/post-list.php:58
+#: ../apps/shortcode/vc-blocks/post-list.php:74
+#: ../apps/testimonial/testimonial-vc.php:59
+#: ../apps/testimonial/testimonial-vc.php:75
+#: ../apps/testimonial/testimonial-vc.php:191
+#: ../apps/testimonial/testimonial-vc.php:208
+msgid "2"
+msgstr ""
+
+#: ../apps/gallery/gallery-vc.php:62 ../apps/gallery/gallery-vc.php:75
+#: ../apps/gallery/gallery-vc.php:183 ../apps/gallery/gallery-vc.php:197
+#: ../apps/gallery/gallery-vc.php:240 ../apps/gallery/gallery-vc.php:320
+#: ../apps/gallery/gallery-vc.php:334 ../apps/logos/logos-vc.php:59
+#: ../apps/logos/logos-vc.php:72 ../apps/logos/logos-vc.php:193
+#: ../apps/logos/logos-vc.php:208 ../apps/people/people-vc.php:59
+#: ../apps/people/people-vc.php:72 ../apps/people/people-vc.php:193
+#: ../apps/people/people-vc.php:207 ../apps/portfolio/portfolio-vc.php:58
+#: ../apps/portfolio/portfolio-vc.php:72
+#: ../apps/portfolio/portfolio-vc.php:193
+#: ../apps/portfolio/portfolio-vc.php:207
+#: ../apps/shortcode/vc-blocks/post-gallery.php:37
+#: ../apps/shortcode/vc-blocks/post-list.php:59
+#: ../apps/shortcode/vc-blocks/post-list.php:71
+#: ../apps/testimonial/testimonial-vc.php:58
+#: ../apps/testimonial/testimonial-vc.php:72
+#: ../apps/testimonial/testimonial-vc.php:193
+#: ../apps/testimonial/testimonial-vc.php:207
+msgid "3"
+msgstr ""
+
+#: ../apps/gallery/gallery-vc.php:63 ../apps/gallery/gallery-vc.php:184
+#: ../apps/gallery/gallery-vc.php:196 ../apps/gallery/gallery-vc.php:241
+#: ../apps/gallery/gallery-vc.php:321 ../apps/gallery/gallery-vc.php:332
+#: ../apps/logos/logos-vc.php:60 ../apps/logos/logos-vc.php:194
+#: ../apps/logos/logos-vc.php:207 ../apps/people/people-vc.php:60
+#: ../apps/people/people-vc.php:194 ../apps/people/people-vc.php:206
+#: ../apps/portfolio/portfolio-vc.php:60
+#: ../apps/portfolio/portfolio-vc.php:194
+#: ../apps/portfolio/portfolio-vc.php:206
+#: ../apps/shortcode/vc-blocks/post-gallery.php:38
+#: ../apps/shortcode/vc-blocks/post-list.php:60
+#: ../apps/testimonial/testimonial-vc.php:60
+#: ../apps/testimonial/testimonial-vc.php:194
+#: ../apps/testimonial/testimonial-vc.php:206
+msgid "4"
+msgstr ""
+
+#: ../apps/gallery/gallery-vc.php:64 ../apps/gallery/gallery-vc.php:167
+#: ../apps/gallery/gallery-vc.php:195 ../apps/gallery/gallery-vc.php:242
+#: ../apps/gallery/gallery-vc.php:305 ../apps/gallery/gallery-vc.php:333
+#: ../apps/logos/logos-vc.php:61 ../apps/logos/logos-vc.php:178
+#: ../apps/logos/logos-vc.php:195 ../apps/logos/logos-vc.php:206
+#: ../apps/people/people-vc.php:61 ../apps/people/people-vc.php:178
+#: ../apps/people/people-vc.php:205 ../apps/portfolio/portfolio-vc.php:61
+#: ../apps/portfolio/portfolio-vc.php:178
+#: ../apps/portfolio/portfolio-vc.php:205
+#: ../apps/testimonial/testimonial-vc.php:61
+#: ../apps/testimonial/testimonial-vc.php:178
+#: ../apps/testimonial/testimonial-vc.php:205
+msgid "5"
+msgstr ""
+
+#: ../apps/gallery/gallery-vc.php:76 ../apps/logos/logos-vc.php:73
+#: ../apps/people/people-vc.php:73 ../apps/portfolio/portfolio-vc.php:73
+#: ../apps/shortcode/vc-blocks/post-list.php:72
+#: ../apps/testimonial/testimonial-vc.php:73
+msgid "0.5"
+msgstr ""
+
+#: ../apps/gallery/gallery-vc.php:77 ../apps/gallery/gallery-vc.php:182
+#: ../apps/gallery/gallery-vc.php:319 ../apps/logos/logos-vc.php:74
+#: ../apps/logos/logos-vc.php:192 ../apps/people/people-vc.php:74
+#: ../apps/people/people-vc.php:192 ../apps/portfolio/portfolio-vc.php:74
+#: ../apps/portfolio/portfolio-vc.php:192
+#: ../apps/shortcode/vc-blocks/post-list.php:73
+#: ../apps/testimonial/testimonial-vc.php:74
+#: ../apps/testimonial/testimonial-vc.php:192
+msgid "1"
+msgstr ""
+
+#: ../apps/gallery/gallery-vc.php:95
+msgid "Gallery Archive [Slideshow]"
+msgstr ""
+
+#: ../apps/gallery/gallery-vc.php:134
+msgid "Gallery Archive [carousel]"
+msgstr ""
+
+#: ../apps/gallery/gallery-vc.php:168 ../apps/gallery/gallery-vc.php:304
+#: ../apps/logos/logos-vc.php:177 ../apps/people/people-vc.php:177
+#: ../apps/portfolio/portfolio-vc.php:177
+#: ../apps/testimonial/testimonial-vc.php:177
+msgid "10"
+msgstr ""
+
+#: ../apps/gallery/gallery-vc.php:169 ../apps/gallery/gallery-vc.php:306
+#: ../apps/logos/logos-vc.php:179 ../apps/people/people-vc.php:179
+#: ../apps/portfolio/portfolio-vc.php:179
+#: ../apps/testimonial/testimonial-vc.php:179
+msgid "15"
+msgstr ""
+
+#: ../apps/gallery/gallery-vc.php:170 ../apps/gallery/gallery-vc.php:307
+#: ../apps/logos/logos-vc.php:180 ../apps/people/people-vc.php:180
+#: ../apps/portfolio/portfolio-vc.php:180
+#: ../apps/testimonial/testimonial-vc.php:180
+msgid "20"
+msgstr ""
+
+#: ../apps/gallery/gallery-vc.php:178 ../apps/gallery/gallery-vc.php:315
+#: ../apps/logos/logos-vc.php:188 ../apps/people/people-vc.php:188
+#: ../apps/portfolio/portfolio-vc.php:188
+#: ../apps/testimonial/testimonial-vc.php:188
+msgid "Min Items"
+msgstr ""
+
+#: ../apps/gallery/gallery-vc.php:192 ../apps/gallery/gallery-vc.php:329
+#: ../apps/logos/logos-vc.php:203 ../apps/people/people-vc.php:202
+#: ../apps/portfolio/portfolio-vc.php:202
+#: ../apps/testimonial/testimonial-vc.php:202
+msgid "Max Items"
+msgstr ""
+
+#: ../apps/gallery/gallery-vc.php:215
+msgid "Gallery Single [Grid]"
+msgstr ""
+
+#: ../apps/gallery/gallery-vc.php:227 ../apps/gallery/gallery-vc.php:271
+#: ../apps/gallery/gallery-vc.php:292
+#: ../apps/gallery/tinymce/single-carousel.php:10
+#: ../apps/gallery/tinymce/single-grid.php:10
+#: ../apps/gallery/tinymce/single-slideshow.php:10
+msgid "Gallery ID"
+msgstr ""
+
+#: ../apps/gallery/gallery-vc.php:259
+msgid "Gallery Single [slideshow]"
+msgstr ""
+
+#: ../apps/gallery/gallery-vc.php:274 ../apps/gallery/gallery-vc.php:295
+msgid "Select Single gallary"
+msgstr ""
+
+#: ../apps/gallery/gallery-vc.php:280
+msgid "Gallery Single [carousel]"
+msgstr ""
+
+#: ../apps/gallery/metaboxes/gallery.php:2
+#: ../apps/logos/metaboxes/gallery.php:2
+msgid ""
+"Here you will add the images of this gallery. Click on the <code>\"Add New "
+"Gallery Item\"</code> Button to add new image."
+msgstr ""
+
+#: ../apps/gallery/metaboxes/gallery.php:23
+#: ../apps/logos/metaboxes/gallery.php:23
+msgid "Add New Gallery Item"
+msgstr ""
+
+#: ../apps/gallery/tinymce/archive-carousel.php:10
+#: ../apps/gallery/tinymce/archive-grid.php:10
+#: ../apps/gallery/tinymce/archive-slideshow.php:10
+msgid "Gallery IDs"
+msgstr ""
+
+#: ../apps/gallery/widgets/gallery-archive-carousel-widget.php:7
+msgid "Gallery Archive Carousel (well)"
+msgstr ""
+
+#: ../apps/gallery/widgets/gallery-archive-carousel-widget.php:8
+msgid "Show Gallery Archive item on carousel style"
+msgstr ""
+
+#: ../apps/gallery/widgets/gallery-archive-carousel-widget.php:18
+#: ../apps/gallery/widgets/gallery-archive-grid-widget.php:18
+msgid "Recent Gallery Archive"
+msgstr ""
+
+#: ../apps/gallery/widgets/gallery-archive-carousel-widget.php:21
+#: ../apps/gallery/widgets/gallery-archive-grid-widget.php:21
+#: ../apps/gallery/widgets/gallery-archive-slideshow-widget.php:21
+msgid "Gallery Archive IDs"
+msgstr ""
+
+#: ../apps/gallery/widgets/gallery-archive-carousel-widget.php:31
+#: ../apps/gallery/widgets/gallery-archive-grid-widget.php:31
+#: ../apps/gallery/widgets/gallery-archive-slideshow-widget.php:31
+msgid "Select a Gallery Archive category"
+msgstr ""
+
+#: ../apps/gallery/widgets/gallery-archive-grid-widget.php:7
+msgid "Gallery Archive Grid (well)"
+msgstr ""
+
+#: ../apps/gallery/widgets/gallery-archive-grid-widget.php:8
+msgid "Show Gallery Archive item on grid style"
+msgstr ""
+
+#: ../apps/gallery/widgets/gallery-archive-grid-widget.php:61
+#: ../apps/gallery/widgets/gallery-single-grid-widget.php:30
+#: ../apps/logos/widgets/logowell-grid-widget.php:61
+#: ../apps/people/widgets/peowell-grid-widget.php:61
+#: ../apps/portfolio/widgets/portfolio-grid-widget.php:61
+#: ../apps/testimonial/widgets/testimonial-grid-widget.php:61
+msgid "Grid column"
+msgstr ""
+
+#: ../apps/gallery/widgets/gallery-archive-slideshow-widget.php:7
+msgid "Gallery Archive Slideshow (well)"
+msgstr ""
+
+#: ../apps/gallery/widgets/gallery-archive-slideshow-widget.php:8
+msgid "Show Gallery Archive item on slideshow style"
+msgstr ""
+
+#: ../apps/gallery/widgets/gallery-archive-slideshow-widget.php:18
+msgid "Recent Gallery Archives"
+msgstr ""
+
+#: ../apps/gallery/widgets/gallery-single-carousel-widget.php:7
+msgid "Gallery Single Carousel (well)"
+msgstr ""
+
+#: ../apps/gallery/widgets/gallery-single-carousel-widget.php:8
+msgid "Show Gallery Single item on carousel style"
+msgstr ""
+
+#: ../apps/gallery/widgets/gallery-single-carousel-widget.php:18
+#: ../apps/gallery/widgets/gallery-single-grid-widget.php:18
+#: ../apps/gallery/widgets/gallery-single-slideshow-widget.php:18
+msgid "Recent Gallery Single"
+msgstr ""
+
+#: ../apps/gallery/widgets/gallery-single-carousel-widget.php:21
+#: ../apps/gallery/widgets/gallery-single-grid-widget.php:21
+#: ../apps/gallery/widgets/gallery-single-slideshow-widget.php:21
+msgid "Gallery Single ID"
+msgstr ""
+
+#: ../apps/gallery/widgets/gallery-single-carousel-widget.php:22
+msgid "Example: <code>1</code>"
+msgstr ""
+
+#: ../apps/gallery/widgets/gallery-single-grid-widget.php:7
+msgid "Gallery Single Grid (well)"
+msgstr ""
+
+#: ../apps/gallery/widgets/gallery-single-grid-widget.php:8
+msgid "Show Gallery Single item on grid style"
+msgstr ""
+
+#: ../apps/gallery/widgets/gallery-single-slideshow-widget.php:7
+msgid "Gallery Single Slideshow (well)"
+msgstr ""
+
+#: ../apps/gallery/widgets/gallery-single-slideshow-widget.php:8
+msgid "Show Gallery Single item on slideshow style"
+msgstr ""
+
+#: ../apps/logos/logos-metabox.php:5
+msgid "Logo Info"
+msgstr ""
+
+#: ../apps/logos/logos-metabox.php:22
+#: ../apps/shortcode/tinymce/accordion-TinyMCE.php:22
+#: ../apps/shortcode/tinymce/font-awesome-TinyMCE.php:76
+#: ../apps/shortcode/tinymce/icon-content-TinyMCE.php:55
+#: ../apps/shortcode/tinymce/tagline-box-TinyMCE.php:22
+#: ../apps/shortcode/vc-blocks/icon_content.php:57
+#: ../apps/shortcode/vc-blocks/tagline-box.php:24
+#: ../apps/shortcode/widgets/icon_content.php:53
+#: ../apps/shortcode/widgets/tagline-box.php:21
+msgid "Link"
+msgstr ""
+
+#: ../apps/logos/logos-theme-compat.php:71
+msgid "Logo Archive"
+msgstr ""
+
+#: ../apps/logos/logos-theme-compat.php:75
+msgid "Logo Category: "
+msgstr ""
+
+#: ../apps/logos/logos-typs.php:4
+msgid "Logos "
+msgstr ""
+
+#: ../apps/logos/logos-typs.php:5
+msgid "Logo"
+msgstr ""
+
+#: ../apps/logos/logos-typs.php:7
+msgid "Add New Logo"
+msgstr ""
+
+#: ../apps/logos/logos-typs.php:8
+msgid "Edit Logo"
+msgstr ""
+
+#: ../apps/logos/logos-typs.php:9
+msgid "New Logo"
+msgstr ""
+
+#: ../apps/logos/logos-typs.php:10
+msgid "All Logos"
+msgstr ""
+
+#: ../apps/logos/logos-typs.php:11
+msgid "View Logos"
+msgstr ""
+
+#: ../apps/logos/logos-typs.php:12
+msgid "Search Logos"
+msgstr ""
+
+#: ../apps/logos/logos-typs.php:13
+msgid "No Logos found"
+msgstr ""
+
+#: ../apps/logos/logos-typs.php:14
+msgid "No Logos found in Trash"
+msgstr ""
+
+#: ../apps/logos/logos-typs.php:16
+msgid "Logos"
+msgstr ""
+
+#: ../apps/logos/logos-typs.php:39
+msgid "Logo Categories"
+msgstr ""
+
+#: ../apps/logos/logos-typs.php:40
+msgid "Logo Category"
+msgstr ""
+
+#: ../apps/logos/logos-typs.php:41
+msgid "Search Logo Categories"
+msgstr ""
+
+#: ../apps/logos/logos-typs.php:42
+msgid "Popular Logo Categories"
+msgstr ""
+
+#: ../apps/logos/logos-typs.php:43
+msgid "All Logo Categories"
+msgstr ""
+
+#: ../apps/logos/logos-typs.php:44
+msgid "Edit Logo Category"
+msgstr ""
+
+#: ../apps/logos/logos-typs.php:45
+msgid "Update Logo Category"
+msgstr ""
+
+#: ../apps/logos/logos-typs.php:46
+msgid "Add New Logo Category"
+msgstr ""
+
+#: ../apps/logos/logos-typs.php:47
+msgid "New Logo Category Name"
+msgstr ""
+
+#: ../apps/logos/logos-typs.php:48
+msgid "Separate Logo Categories with commas"
+msgstr ""
+
+#: ../apps/logos/logos-typs.php:49
+msgid "Add or remove Logo Categories"
+msgstr ""
+
+#: ../apps/logos/logos-typs.php:50
+msgid "Choose from the most used Logo Categories"
+msgstr ""
+
+#: ../apps/logos/logos-typs.php:51
+msgid "No Logo Categories found."
+msgstr ""
+
+#: ../apps/logos/logos-vc.php:4
+msgid "Logos [Grid]"
+msgstr ""
+
+#: ../apps/logos/logos-vc.php:24 ../apps/logos/logos-vc.php:116
+#: ../apps/logos/logos-vc.php:155
+msgid "Logos Category"
+msgstr ""
+
+#: ../apps/logos/logos-vc.php:28 ../apps/logos/logos-vc.php:120
+#: ../apps/logos/logos-vc.php:159
+msgid "Select a Category to display Logo items form that category"
+msgstr ""
+
+#: ../apps/logos/logos-vc.php:40
+msgid "Select No if you select a category to display Logo items"
+msgstr ""
+
+#: ../apps/logos/logos-vc.php:46 ../apps/logos/logos-vc.php:126
+#: ../apps/logos/logos-vc.php:165
+msgid "Logo limit"
+msgstr ""
+
+#: ../apps/logos/logos-vc.php:96
+msgid "Logos [Slideshow]"
+msgstr ""
+
+#: ../apps/logos/logos-vc.php:135
+msgid "Logos [carousel]"
+msgstr ""
+
+#: ../apps/logos/tinymce/carousel.php:10 ../apps/logos/tinymce/grid.php:10
+#: ../apps/logos/tinymce/slideshow.php:10
+#: ../apps/logos/widgets/logowell-carousel-widget.php:21
+#: ../apps/logos/widgets/logowell-grid-widget.php:21
+#: ../apps/logos/widgets/logowell-slideshow-widget.php:21
+msgid "Logo IDs"
+msgstr ""
+
+#: ../apps/logos/widgets/logowell-carousel-widget.php:7
+msgid "Logo Carousel (well)"
+msgstr ""
+
+#: ../apps/logos/widgets/logowell-carousel-widget.php:8
+msgid "Show Logo item on carousel style"
+msgstr ""
+
+#: ../apps/logos/widgets/logowell-carousel-widget.php:18
+#: ../apps/logos/widgets/logowell-grid-widget.php:18
+#: ../apps/logos/widgets/logowell-slideshow-widget.php:18
+msgid "Recent Logos"
+msgstr ""
+
+#: ../apps/logos/widgets/logowell-carousel-widget.php:31
+#: ../apps/logos/widgets/logowell-grid-widget.php:31
+#: ../apps/logos/widgets/logowell-slideshow-widget.php:31
+msgid "Select a Logo category"
+msgstr ""
+
+#: ../apps/logos/widgets/logowell-grid-widget.php:7
+msgid "Logo Grid (well)"
+msgstr ""
+
+#: ../apps/logos/widgets/logowell-grid-widget.php:8
+msgid "Show Logo item on grid style"
+msgstr ""
+
+#: ../apps/logos/widgets/logowell-slideshow-widget.php:7
+msgid "Logo Slideshow (well)"
+msgstr ""
+
+#: ../apps/logos/widgets/logowell-slideshow-widget.php:8
+msgid "Show Logo item on slideshow style"
+msgstr ""
+
+#: ../apps/people/people-metabox.php:5
+msgid "Aditional Information"
+msgstr ""
+
+#: ../apps/people/people-metabox.php:13
+msgid "Jop Title"
+msgstr ""
+
+#: ../apps/people/people-metabox.php:14
+msgid "The Job description, position or functions of this member"
+msgstr ""
+
+#: ../apps/people/people-metabox.php:20
+#: ../apps/people/templates/single-item.php:10
+msgid "Email"
+msgstr ""
+
+#: ../apps/people/people-metabox.php:21
+msgid "Contact email for this member."
+msgstr ""
+
+#: ../apps/people/people-metabox.php:27
+#: ../apps/people/templates/single-item.php:16
+msgid "Location"
+msgstr ""
+
+#: ../apps/people/people-metabox.php:28
+msgid "Location / Origin / Address of the member."
+msgstr ""
+
+#: ../apps/people/people-metabox.php:34
+#: ../apps/people/templates/single-item.php:23
+msgid "Phone"
+msgstr ""
+
+#: ../apps/people/people-metabox.php:35
+msgid "Phone Contact Number"
+msgstr ""
+
+#: ../apps/people/people-metabox.php:41
+#: ../apps/people/templates/single-item.php:29
+msgid "Personal Website"
+msgstr ""
+
+#: ../apps/people/people-metabox.php:42 ../apps/people/people-metabox.php:56
+#: ../apps/people/people-metabox.php:63 ../apps/people/people-metabox.php:70
+#: ../apps/people/people-metabox.php:77 ../apps/people/people-metabox.php:84
+#: ../apps/people/people-metabox.php:91
+#: ../apps/portfolio/portfolio-metabox.php:32
+#: ../apps/portfolio/portfolio-metabox.php:44
+msgid "Please include the full URL including <code>http://</code>"
+msgstr ""
+
+#: ../apps/people/people-metabox.php:48
+msgid "<h2>SOCIAL PROFILES</h2>"
+msgstr ""
+
+#: ../apps/people/people-metabox.php:49
+msgid ""
+"Use the full URL of the profile page. Example http://www.facebook.com/profile"
+msgstr ""
+
+#: ../apps/people/people-metabox.php:55
+msgid "Linkedin"
+msgstr ""
+
+#: ../apps/people/people-metabox.php:62
+msgid "Facebook"
+msgstr ""
+
+#: ../apps/people/people-metabox.php:69
+msgid "Twitter"
+msgstr ""
+
+#: ../apps/people/people-metabox.php:76
+msgid "Google Plus"
+msgstr ""
+
+#: ../apps/people/people-metabox.php:83
+#: ../apps/shortcode/vc-blocks/vimeo.php:4
+msgid "Vimeo"
+msgstr ""
+
+#: ../apps/people/people-metabox.php:90
+#: ../apps/shortcode/vc-blocks/youtube.php:4
+msgid "Youtube"
+msgstr ""
+
+#: ../apps/people/people-shortcodes.php:131
+#: ../apps/portfolio/portfolio-shortcodes.php:131
+msgid "No ID defined"
+msgstr ""
+
+#: ../apps/people/people-theme-compat.php:72
+#: ../apps/portfolio/portfolio-theme-compat.php:72
+msgid "Portfolio Archive"
+msgstr ""
+
+#: ../apps/people/people-theme-compat.php:76
+#: ../apps/portfolio/portfolio-theme-compat.php:76
+msgid "Portfolio Category: "
+msgstr ""
+
+#: ../apps/people/people-typs.php:4
+msgid "Peoples "
+msgstr ""
+
+#: ../apps/people/people-typs.php:5
+msgid "People"
+msgstr ""
+
+#: ../apps/people/people-typs.php:7
+msgid "Add New People"
+msgstr ""
+
+#: ../apps/people/people-typs.php:8
+msgid "Edit People"
+msgstr ""
+
+#: ../apps/people/people-typs.php:9
+msgid "New People"
+msgstr ""
+
+#: ../apps/people/people-typs.php:10
+msgid "All Peoples"
+msgstr ""
+
+#: ../apps/people/people-typs.php:11
+msgid "View Peoples"
+msgstr ""
+
+#: ../apps/people/people-typs.php:12
+msgid "Search Peoples"
+msgstr ""
+
+#: ../apps/people/people-typs.php:13
+msgid "No Peoples found"
+msgstr ""
+
+#: ../apps/people/people-typs.php:14
+msgid "No Peoples found in Trash"
+msgstr ""
+
+#: ../apps/people/people-typs.php:16
+msgid "Peoples"
+msgstr ""
+
+#: ../apps/people/people-typs.php:39
+msgid "People Categories"
+msgstr ""
+
+#: ../apps/people/people-typs.php:40 ../apps/people/people-vc.php:116
+msgid "People Category"
+msgstr ""
+
+#: ../apps/people/people-typs.php:41
+msgid "Search People Categories"
+msgstr ""
+
+#: ../apps/people/people-typs.php:42
+msgid "Popular People Categories"
+msgstr ""
+
+#: ../apps/people/people-typs.php:43
+msgid "All People Categories"
+msgstr ""
+
+#: ../apps/people/people-typs.php:44
+msgid "Edit People Category"
+msgstr ""
+
+#: ../apps/people/people-typs.php:45
+msgid "Update People Category"
+msgstr ""
+
+#: ../apps/people/people-typs.php:46
+msgid "Add New People Category"
+msgstr ""
+
+#: ../apps/people/people-typs.php:47
+msgid "New People Category Name"
+msgstr ""
+
+#: ../apps/people/people-typs.php:48
+msgid "Separate People Categories with commas"
+msgstr ""
+
+#: ../apps/people/people-typs.php:49
+msgid "Add or remove People Categories"
+msgstr ""
+
+#: ../apps/people/people-typs.php:50
+msgid "Choose from the most used People Categories"
+msgstr ""
+
+#: ../apps/people/people-typs.php:51
+msgid "No People Categories found."
+msgstr ""
+
+#: ../apps/people/people-vc.php:4
+msgid "People [Grid]"
+msgstr ""
+
+#: ../apps/people/people-vc.php:24 ../apps/people/people-vc.php:155
+msgid "Peoples Category"
+msgstr ""
+
+#: ../apps/people/people-vc.php:28 ../apps/people/people-vc.php:120
+#: ../apps/people/people-vc.php:159
+msgid "Select a Category to display People items form that category"
+msgstr ""
+
+#: ../apps/people/people-vc.php:40
+msgid "Select No if you select a category to display People items"
+msgstr ""
+
+#: ../apps/people/people-vc.php:46 ../apps/people/people-vc.php:126
+#: ../apps/people/people-vc.php:165
+msgid "People limit"
+msgstr ""
+
+#: ../apps/people/people-vc.php:96
+msgid "People [Slideshow]"
+msgstr ""
+
+#: ../apps/people/people-vc.php:135
+msgid "People [carousel]"
+msgstr ""
+
+#: ../apps/people/people-vc.php:216
+msgid "People [Single]"
+msgstr ""
+
+#: ../apps/people/templates/single-item.php:5
+msgid "Contact With"
+msgstr ""
+
+#: ../apps/people/templates/single-item.php:31
+msgid "View Website"
+msgstr ""
+
+#: ../apps/people/templates/single-item.php:70
+msgid "About"
+msgstr ""
+
+#: ../apps/people/tinymce/carousel.php:10 ../apps/people/tinymce/grid.php:10
+#: ../apps/people/tinymce/slideshow.php:10
+#: ../apps/people/widgets/peowell-carousel-widget.php:21
+#: ../apps/people/widgets/peowell-grid-widget.php:21
+#: ../apps/people/widgets/peowell-slideshow-widget.php:21
+msgid "People IDs"
+msgstr ""
+
+#: ../apps/people/tinymce/single.php:10
+msgid "People ID"
+msgstr ""
+
+#: ../apps/people/widgets/peowell-carousel-widget.php:7
+msgid "People Carousel (well)"
+msgstr ""
+
+#: ../apps/people/widgets/peowell-carousel-widget.php:8
+msgid "Show People item on carousel style"
+msgstr ""
+
+#: ../apps/people/widgets/peowell-carousel-widget.php:18
+#: ../apps/people/widgets/peowell-grid-widget.php:18
+#: ../apps/people/widgets/peowell-slideshow-widget.php:18
+msgid "Team Members"
+msgstr ""
+
+#: ../apps/people/widgets/peowell-carousel-widget.php:31
+#: ../apps/people/widgets/peowell-grid-widget.php:31
+#: ../apps/people/widgets/peowell-slideshow-widget.php:31
+msgid "Select a People category"
+msgstr ""
+
+#: ../apps/people/widgets/peowell-grid-widget.php:7
+msgid "People Grid (well)"
+msgstr ""
+
+#: ../apps/people/widgets/peowell-grid-widget.php:8
+#: ../apps/portfolio/widgets/portfolio-grid-widget.php:8
+msgid "Show portfolio item on grid style"
+msgstr ""
+
+#: ../apps/people/widgets/peowell-slideshow-widget.php:7
+msgid "People Slideshow (well)"
+msgstr ""
+
+#: ../apps/people/widgets/peowell-slideshow-widget.php:8
+msgid "Show People item on slideshow style"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-metabox.php:5
+msgid "Portfolio Options"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-metabox.php:13
+msgid "Video Code"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-metabox.php:26
+msgid "Example: <code>html, css , PHP</code>"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-metabox.php:31
+#: ../includes/metabox-framework/example-functions.php:55
+msgid "Website URL"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-metabox.php:37
+msgid "Copyright Text"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-metabox.php:38
+msgid "Example: <code>Ashik</code>"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-metabox.php:43
+msgid "Copyright URL"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-typs.php:4
+msgid "Portfolios "
+msgstr ""
+
+#: ../apps/portfolio/portfolio-typs.php:5
+msgid "Portfolio"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-typs.php:7
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-typs.php:8
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-typs.php:9
+msgid "New Portfolio"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-typs.php:10
+msgid "All Portfolios"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-typs.php:11
+msgid "View Portfolios"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-typs.php:12
+msgid "Search Portfolios"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-typs.php:13
+msgid "No Portfolios found"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-typs.php:14
+msgid "No Portfolios found in Trash"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-typs.php:16
+msgid "Portfolios"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-typs.php:39
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-typs.php:40
+#: ../apps/portfolio/portfolio-vc.php:116
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-typs.php:41
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-typs.php:42
+msgid "Popular Portfolio Categories"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-typs.php:43
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-typs.php:44
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-typs.php:45
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-typs.php:46
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-typs.php:47
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-typs.php:48
+msgid "Separate Portfolio Categories with commas"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-typs.php:49
+msgid "Add or remove Portfolio Categories"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-typs.php:50
+msgid "Choose from the most used Portfolio Categories"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-typs.php:51
+msgid "No Portfolio Categories found."
+msgstr ""
+
+#: ../apps/portfolio/portfolio-vc.php:4
+msgid "Portfolio [Grid]"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-vc.php:24
+#: ../apps/portfolio/portfolio-vc.php:155
+msgid "Portfolios Category"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-vc.php:28
+#: ../apps/portfolio/portfolio-vc.php:120
+#: ../apps/portfolio/portfolio-vc.php:159
+msgid "Select a Category to display Portfolio items form that category"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-vc.php:40
+msgid "Select No if you select a category to display Portfolio items"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-vc.php:46
+#: ../apps/portfolio/portfolio-vc.php:126
+#: ../apps/portfolio/portfolio-vc.php:165
+msgid "Portfolio limit"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-vc.php:96
+msgid "Portfolio [Slideshow]"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-vc.php:135
+msgid "Portfolio [carousel]"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-vc.php:216
+msgid "Portfolio [Single]"
+msgstr ""
+
+#: ../apps/portfolio/portfolio-vc.php:228
+msgid "ID"
+msgstr ""
+
+#: ../apps/portfolio/widgets/portfolio-grid-widget.php:7
+msgid "Portfolio Grid (well)"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/accordion-TinyMCE.php:11
+#: ../apps/shortcode/tinymce/lightbox-TinyMCE.php:21
+#: ../apps/shortcode/tinymce/tagline-box-TinyMCE.php:99
+#: ../apps/shortcode/widgets/tagline-box.php:101
+msgid "Div Class"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/alert-TinyMCE.php:21
+#: ../apps/shortcode/tinymce/map-TinyMCE.php:21
+#: ../apps/shortcode/widgets/alert.php:21 ../apps/shortcode/widgets/map.php:31
+#: ../includes/TinyMCE-framework/example/alert-TinyMCE.php:21
+msgid "Type"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/alert-TinyMCE.php:32
+#: ../includes/TinyMCE-framework/example/alert-TinyMCE.php:32
+msgid "Close"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/audio-TinyMCE.php:11
+msgid "Audio url"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/audio-TinyMCE.php:21
+#: ../apps/shortcode/tinymce/image-TinyMCE.php:54
+#: ../apps/shortcode/tinymce/map-TinyMCE.php:31
+#: ../apps/shortcode/tinymce/vimeo-TinyMCE.php:21
+#: ../apps/shortcode/tinymce/youtube-TinyMCE.php:21
+#: ../apps/shortcode/vc-blocks/audio.php:24
+#: ../apps/shortcode/vc-blocks/map.php:38
+#: ../apps/shortcode/widgets/audio.php:29
+#: ../apps/shortcode/widgets/image.php:45 ../apps/shortcode/widgets/map.php:45
+#: ../apps/shortcode/widgets/vimeo.php:29
+#: ../apps/shortcode/widgets/youtube.php:29
+msgid "Width"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/audio-TinyMCE.php:32
+#: ../apps/shortcode/tinymce/image-TinyMCE.php:43
+#: ../apps/shortcode/tinymce/map-TinyMCE.php:42
+#: ../apps/shortcode/tinymce/vimeo-TinyMCE.php:32
+#: ../apps/shortcode/tinymce/youtube-TinyMCE.php:32
+#: ../apps/shortcode/vc-blocks/audio.php:33
+#: ../apps/shortcode/vc-blocks/map.php:47
+#: ../apps/shortcode/widgets/image.php:37 ../apps/shortcode/widgets/map.php:53
+#: ../apps/shortcode/widgets/vimeo.php:37
+#: ../apps/shortcode/widgets/youtube.php:37
+msgid "Height"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/audio-TinyMCE.php:43
+msgid "comments"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/audio-TinyMCE.php:54
+#: ../apps/shortcode/vc-blocks/audio.php:54
+#: ../apps/shortcode/widgets/audio.php:57
+msgid "Auto Play"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/audio-TinyMCE.php:65
+#: ../apps/shortcode/tinymce/font-awesome-TinyMCE.php:22
+#: ../apps/shortcode/tinymce/highlight-TinyMCE.php:11
+#: ../apps/shortcode/vc-blocks/audio.php:66
+#: ../apps/shortcode/vc-blocks/font-awesome.php:24
+#: ../apps/shortcode/widgets/audio.php:69
+msgid "Color"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/button-TinyMCE.php:11
+#: ../apps/shortcode/vc-blocks/button.php:24
+msgid "Button Color Style"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/button-TinyMCE.php:21
+#: ../apps/shortcode/tinymce/tagline-box-TinyMCE.php:110
+#: ../apps/shortcode/vc-blocks/button.php:46
+#: ../apps/shortcode/vc-blocks/tagline-box.php:115
+#: ../apps/shortcode/widgets/tagline-box.php:109
+msgid "Button Size"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/button-TinyMCE.php:31
+#: ../apps/shortcode/vc-blocks/button.php:61
+msgid "Button Link"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/button-TinyMCE.php:42
+#: ../apps/shortcode/tinymce/font-awesome-TinyMCE.php:87
+#: ../apps/shortcode/tinymce/icon-content-TinyMCE.php:66
+#: ../apps/shortcode/tinymce/image-TinyMCE.php:120
+#: ../apps/shortcode/tinymce/tagline-box-TinyMCE.php:87
+#: ../apps/shortcode/vc-blocks/font-awesome.php:97
+#: ../apps/shortcode/vc-blocks/icon_content.php:66
+#: ../apps/shortcode/widgets/icon_content.php:61
+#: ../apps/shortcode/widgets/image.php:106
+#: ../apps/shortcode/widgets/tagline-box.php:86
+msgid "Link Target"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/button-TinyMCE.php:53
+#: ../apps/shortcode/vc-blocks/button.php:85
+msgid "Button Title"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/button-TinyMCE.php:65
+msgid "Button rel"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/button-TinyMCE.php:76
+#: ../apps/shortcode/vc-blocks/button.php:103
+msgid "Button Radius"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/button-TinyMCE.php:87
+#: ../apps/shortcode/vc-blocks/tagline-box.php:106
+msgid "Button class"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/button-TinyMCE.php:98
+#: ../apps/shortcode/vc-blocks/button.php:121
+msgid "Button Icon Left"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/button-TinyMCE.php:109
+#: ../apps/shortcode/vc-blocks/button.php:130
+msgid "Button Icon Right"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/button-TinyMCE.php:120
+msgid "Button id"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/button-TinyMCE.php:131
+#: ../apps/shortcode/vc-blocks/button.php:148
+msgid "Button Background color"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/button-TinyMCE.php:142
+#: ../apps/shortcode/vc-blocks/button.php:157
+msgid "Button Text color"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/button-TinyMCE.php:153
+#: ../apps/shortcode/tinymce/tagline-box-TinyMCE.php:76
+#: ../apps/shortcode/vc-blocks/button.php:15
+#: ../apps/shortcode/vc-blocks/tagline-box.php:82
+#: ../apps/shortcode/widgets/tagline-box.php:78
+msgid "Button Text"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/button-TinyMCE.php:164
+msgid "Button fullwidth"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/checklist-TinyMCE.php:11
+#: ../apps/shortcode/tinymce/font-awesome-TinyMCE.php:33
+#: ../apps/shortcode/tinymce/icon-content-TinyMCE.php:33
+#: ../apps/shortcode/vc-blocks/font-awesome.php:33
+msgid "Icon Style"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/checklist-TinyMCE.php:21
+#: ../apps/shortcode/vc-blocks/checklist.php:31
+#: ../apps/shortcode/widgets/checklist.php:47
+msgid "Icon Color"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/checklist-TinyMCE.php:32
+#: ../apps/shortcode/vc-blocks/checklist.php:40
+#: ../apps/shortcode/widgets/checklist.php:55
+msgid "Icon Background Color"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/checklist-TinyMCE.php:43
+#: ../apps/shortcode/tinymce/font-awesome-TinyMCE.php:54
+#: ../apps/shortcode/vc-blocks/checklist.php:49
+#: ../apps/shortcode/vc-blocks/font-awesome.php:59
+#: ../apps/shortcode/widgets/checklist.php:63
+msgid "Icon Size"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/checklist-TinyMCE.php:54
+#: ../apps/shortcode/widgets/checklist.php:71
+msgid "Circle"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/column-TinyMCE.php:11
+msgid "Lolumn size"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/column-TinyMCE.php:21
+#: ../apps/testimonial/testimonial-metabox.php:22
+msgid "Position"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/column-TinyMCE.php:31
+#: ../apps/shortcode/tinymce/toggle-TinyMCE.php:22
+msgid "Div class"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/counter-box-TinyMCE.php:11
+#: ../apps/shortcode/tinymce/counter-circle-TinyMCE.php:33
+#: ../apps/shortcode/tinymce/progress-bar-TinyMCE.php:33
+#: ../apps/shortcode/vc-blocks/counter_box.php:15
+#: ../apps/shortcode/vc-blocks/counter_circle.php:33
+#: ../apps/shortcode/vc-blocks/progress_bar.php:33
+#: ../apps/shortcode/widgets/counter_box.php:21
+#: ../apps/shortcode/widgets/counter_circle.php:37
+#: ../apps/shortcode/widgets/progress_bar.php:37
+msgid "Value"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/counter-circle-TinyMCE.php:11
+#: ../apps/shortcode/tinymce/progress-bar-TinyMCE.php:11
+#: ../apps/shortcode/vc-blocks/counter_circle.php:15
+#: ../apps/shortcode/vc-blocks/progress_bar.php:15
+#: ../apps/shortcode/widgets/counter_circle.php:21
+#: ../apps/shortcode/widgets/progress_bar.php:21
+msgid "Filled Color"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/counter-circle-TinyMCE.php:22
+#: ../apps/shortcode/tinymce/progress-bar-TinyMCE.php:22
+#: ../apps/shortcode/vc-blocks/counter_circle.php:24
+#: ../apps/shortcode/vc-blocks/progress_bar.php:24
+#: ../apps/shortcode/widgets/counter_circle.php:29
+#: ../apps/shortcode/widgets/progress_bar.php:29
+msgid "Unfilled Color"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/divider-TinyMCE.php:11
+#: ../apps/shortcode/vc-blocks/divider.php:15
+msgid "Divider Style"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/divider-TinyMCE.php:21
+#: ../apps/shortcode/vc-blocks/divider.php:31
+#: ../apps/shortcode/widgets/divider.php:29
+msgid "Margin Top"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/divider-TinyMCE.php:32
+#: ../apps/shortcode/vc-blocks/divider.php:40
+#: ../apps/shortcode/widgets/divider.php:37
+msgid "Margin Bottom"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/dropcap-TinyMCE.php:11
+#: ../apps/shortcode/widgets/divider.php:13
+#: ../apps/shortcode/widgets/icon_content.php:28
+msgid "Style"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/font-awesome-TinyMCE.php:11
+#: ../apps/shortcode/vc-blocks/font-awesome.php:15
+#: ../apps/shortcode/vc-blocks/icon_content.php:15
+#: ../apps/shortcode/widgets/checklist.php:31
+#: ../apps/shortcode/widgets/icon_content.php:20
+msgid "Icon"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/font-awesome-TinyMCE.php:44
+#: ../apps/shortcode/vc-blocks/font-awesome.php:46
+msgid "Icon Shape"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/font-awesome-TinyMCE.php:65
+#: ../apps/shortcode/vc-blocks/font-awesome.php:75
+msgid "Icon Effect"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/font-awesome-TinyMCE.php:99
+#: ../apps/shortcode/vc-blocks/font-awesome.php:112
+msgid "Icon Align"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/heading-TinyMCE.php:22
+#: ../apps/shortcode/vc-blocks/heading.php:24
+msgid "Sub Title"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/heading-TinyMCE.php:33
+msgid "Heading Style"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/heading-TinyMCE.php:43
+msgid "Heading Text Align"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/heading-TinyMCE.php:53
+#: ../apps/shortcode/vc-blocks/heading.php:64
+msgid "Select Heading H1 / H2 / H3 / H4 / H5 / H6"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/heading-TinyMCE.php:63
+#: ../apps/shortcode/tinymce/parallax-TinyMCE.php:78
+#: ../apps/shortcode/vc-blocks/heading.php:80
+#: ../apps/shortcode/widgets/image.php:131
+msgid "Border Color"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/icon-content-TinyMCE.php:11
+msgid "Icon "
+msgstr ""
+
+#: ../apps/shortcode/tinymce/image-TinyMCE.php:11
+#: ../apps/shortcode/vc-blocks/post-gallery.php:24
+#: ../apps/shortcode/widgets/accordion.php:31
+#: ../apps/shortcode/widgets/alert.php:45
+#: ../apps/shortcode/widgets/image.php:13
+msgid "Class"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/image-TinyMCE.php:22
+#: ../apps/shortcode/widgets/image.php:21
+msgid "Image src/link"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/image-TinyMCE.php:32
+#: ../apps/shortcode/widgets/image.php:29
+msgid "Radius"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/image-TinyMCE.php:65
+#: ../apps/shortcode/widgets/image.php:53
+msgid "Image Align"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/image-TinyMCE.php:76
+#: ../apps/shortcode/widgets/image.php:67
+msgid "Image alt"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/image-TinyMCE.php:87
+#: ../apps/shortcode/widgets/image.php:76
+msgid "Image Style"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/image-TinyMCE.php:98
+#: ../apps/shortcode/tinymce/tagline-box-TinyMCE.php:132
+#: ../apps/shortcode/vc-blocks/tagline-box.php:142
+#: ../apps/shortcode/widgets/image.php:90
+#: ../apps/shortcode/widgets/tagline-box.php:132
+msgid "Shadow Opacity"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/image-TinyMCE.php:109
+msgid "Link "
+msgstr ""
+
+#: ../apps/shortcode/tinymce/image-TinyMCE.php:136
+msgid "border width"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/image-TinyMCE.php:147
+msgid "border color"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/lightbox-TinyMCE.php:11
+msgid "Src"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/map-TinyMCE.php:11
+#: ../apps/shortcode/widgets/map.php:21
+msgid "Addpress"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/map-TinyMCE.php:53
+#: ../apps/shortcode/widgets/map.php:61
+msgid "Zoom"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/map-TinyMCE.php:64
+#: ../apps/shortcode/vc-blocks/map.php:65 ../apps/shortcode/widgets/map.php:69
+msgid "Scroll Wheel"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/map-TinyMCE.php:75
+#: ../apps/shortcode/vc-blocks/map.php:77 ../apps/shortcode/widgets/map.php:93
+msgid "Scale"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/map-TinyMCE.php:86
+#: ../apps/shortcode/vc-blocks/map.php:89 ../apps/shortcode/widgets/map.php:81
+msgid "Popup"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/map-TinyMCE.php:97
+#: ../apps/shortcode/vc-blocks/map.php:101
+#: ../apps/shortcode/widgets/map.php:105
+msgid "Zoom Pancontrol"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/parallax-TinyMCE.php:11
+msgid "Row Background Color"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/parallax-TinyMCE.php:21
+msgid "Row Background Image Url"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/parallax-TinyMCE.php:31
+msgid "Row Background Image Repeat"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/parallax-TinyMCE.php:42
+msgid "Row Background Image Position"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/parallax-TinyMCE.php:53
+msgid "Row Background Image Attachment"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/parallax-TinyMCE.php:67
+msgid "Border Size"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/parallax-TinyMCE.php:89
+msgid "Padding Top"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/parallax-TinyMCE.php:100
+msgid "Padding Bottom"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/parallax-TinyMCE.php:111
+msgid "Text Color"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/parallax-TinyMCE.php:122
+msgid "Heading Color"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/parallax-TinyMCE.php:133
+msgid "Link Color"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/post-list-TinyMCE.php:10
+msgid "Post IDs"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/tagline-box-TinyMCE.php:33
+#: ../apps/shortcode/widgets/tagline-box.php:29
+msgid "Align"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/tagline-box-TinyMCE.php:43
+#: ../apps/shortcode/vc-blocks/tagline-box.php:47
+#: ../apps/shortcode/widgets/tagline-box.php:43
+msgid "Button Margin"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/tagline-box-TinyMCE.php:54
+#: ../apps/shortcode/vc-blocks/tagline-box.php:56
+#: ../apps/shortcode/widgets/tagline-box.php:51
+msgid "Border Highlight"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/tagline-box-TinyMCE.php:65
+#: ../apps/shortcode/vc-blocks/divider.php:23
+#: ../apps/shortcode/vc-blocks/tagline-box.php:70
+#: ../apps/shortcode/widgets/tagline-box.php:65
+msgid "Shadow"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/tagline-box-TinyMCE.php:121
+#: ../apps/shortcode/vc-blocks/font-awesome.php:38
+#: ../apps/shortcode/vc-blocks/tagline-box.php:130
+#: ../apps/shortcode/widgets/tagline-box.php:124
+msgid "Border"
+msgstr ""
+
+#: ../apps/shortcode/tinymce/vimeo-TinyMCE.php:11
+#: ../apps/shortcode/tinymce/youtube-TinyMCE.php:11
+#: ../apps/shortcode/widgets/youtube.php:21
+msgid "Youtube Video Id"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/alert.php:4
+msgid "Alert"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/alert.php:24
+msgid "Select Type"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/alert.php:27
+msgid "Info"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/alert.php:28
+msgid "Danger"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/alert.php:29
+msgid "Success"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/alert.php:30
+msgid "Error"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/alert.php:38
+msgid "Enable Close"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/audio.php:4
+msgid "Soundcloud Audio"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/audio.php:15
+msgid "Soundcloud Audio Url"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/audio.php:42
+#: ../apps/shortcode/widgets/audio.php:45
+msgid "Comments"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/audio.php:45
+#: ../apps/shortcode/vc-blocks/audio.php:57
+#: ../apps/shortcode/vc-blocks/map.php:68
+#: ../apps/shortcode/vc-blocks/map.php:80
+#: ../apps/shortcode/vc-blocks/map.php:92
+#: ../apps/shortcode/vc-blocks/map.php:104
+msgid "True"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/audio.php:46
+#: ../apps/shortcode/vc-blocks/audio.php:58
+#: ../apps/shortcode/vc-blocks/map.php:69
+#: ../apps/shortcode/vc-blocks/map.php:81
+#: ../apps/shortcode/vc-blocks/map.php:93
+#: ../apps/shortcode/vc-blocks/map.php:105
+msgid "False"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/button.php:4
+msgid "Button"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/button.php:27
+msgid "default"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/button.php:28
+msgid "Red"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/button.php:29
+msgid "Orange"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/button.php:30
+msgid "Blue"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/button.php:31
+msgid "Black"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/button.php:32
+msgid "Pink"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/button.php:33
+msgid "Rosy"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/button.php:34
+msgid "Green"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/button.php:35
+msgid "Brown"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/button.php:36
+msgid "Purple"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/button.php:37
+msgid "Gold"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/button.php:38
+msgid "Teal"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/button.php:49
+#: ../apps/shortcode/vc-blocks/font-awesome.php:63
+#: ../apps/shortcode/vc-blocks/tagline-box.php:118
+msgid "1x"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/button.php:50
+#: ../apps/shortcode/vc-blocks/font-awesome.php:62
+#: ../apps/shortcode/vc-blocks/tagline-box.php:119
+msgid "2x"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/button.php:51
+#: ../apps/shortcode/vc-blocks/font-awesome.php:64
+#: ../apps/shortcode/vc-blocks/tagline-box.php:120
+msgid "3x"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/button.php:52
+#: ../apps/shortcode/vc-blocks/font-awesome.php:65
+#: ../apps/shortcode/vc-blocks/tagline-box.php:121
+msgid "4x"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/button.php:53
+#: ../apps/shortcode/vc-blocks/font-awesome.php:66
+#: ../apps/shortcode/vc-blocks/tagline-box.php:122
+msgid "5x"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/button.php:70
+#: ../apps/shortcode/vc-blocks/tagline-box.php:91
+msgid "Button Link Target"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/button.php:73
+#: ../apps/shortcode/vc-blocks/font-awesome.php:101
+#: ../apps/shortcode/vc-blocks/icon_content.php:69
+#: ../apps/shortcode/vc-blocks/tagline-box.php:94
+msgid "_blank"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/button.php:74
+#: ../apps/shortcode/vc-blocks/font-awesome.php:102
+#: ../apps/shortcode/vc-blocks/icon_content.php:70
+#: ../apps/shortcode/vc-blocks/tagline-box.php:95
+msgid "_new"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/button.php:75
+#: ../apps/shortcode/vc-blocks/font-awesome.php:103
+#: ../apps/shortcode/vc-blocks/icon_content.php:71
+#: ../apps/shortcode/vc-blocks/tagline-box.php:96
+msgid "_parent"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/button.php:76
+#: ../apps/shortcode/vc-blocks/font-awesome.php:100
+#: ../apps/shortcode/vc-blocks/icon_content.php:72
+#: ../apps/shortcode/vc-blocks/tagline-box.php:97
+msgid "_self"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/button.php:77
+#: ../apps/shortcode/vc-blocks/font-awesome.php:104
+#: ../apps/shortcode/vc-blocks/icon_content.php:73
+#: ../apps/shortcode/vc-blocks/tagline-box.php:98
+msgid "_top"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/button.php:94
+msgid "Button Rel"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/button.php:112
+msgid "Button Class"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/button.php:124
+msgid ""
+"Slect the icon or copy and past the icon from http://fontawesome.io/"
+"cheatsheet EXAM fa-adjust"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/button.php:133
+msgid ""
+"Slect the icon or copy and past the icon from http://fontawesome.io/"
+"cheatsheet/ EXAM fa-adjust"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/button.php:139
+msgid "id"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/button.php:166
+msgid "Buttom fullwidth"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/checklist.php:4
+msgid "Checklist"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/checklist.php:15
+msgid "Select Icon Type"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/checklist.php:18
+msgid "arrow"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/checklist.php:19
+msgid "check"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/checklist.php:20
+msgid "star"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/checklist.php:21
+msgid "asterik"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/checklist.php:22
+msgid "cross"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/checklist.php:23
+msgid "plus"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/checklist.php:59
+msgid "Enable Circle"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/counter_box.php:4
+msgid "Counter Box"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/counter_circle.php:4
+msgid "Counter Circle"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/divider.php:4
+#: ../apps/shortcode/widgets/divider.php:8
+msgid "Divider"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/divider.php:18
+#: ../apps/shortcode/vc-blocks/font-awesome.php:36
+#: ../apps/shortcode/vc-blocks/font-awesome.php:116
+#: ../apps/shortcode/vc-blocks/heading.php:36
+#: ../apps/shortcode/vc-blocks/icon_content.php:36
+#: ../apps/shortcode/vc-blocks/tagline-box.php:36
+msgid "None"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/divider.php:19
+msgid "Single"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/divider.php:20
+msgid "Double"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/divider.php:21
+msgid "Dotted"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/divider.php:22
+msgid "Dashed"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/font-awesome.php:4
+msgid "Fontawesome Icon"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/font-awesome.php:18
+msgid ""
+"Slect the icon or copy and past the icon from a <href='http://fontawesome.io/"
+"cheatsheet/' target='_blank'>Font Awesome</a> EXAN fa-adjust"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/font-awesome.php:37
+msgid "Background"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/font-awesome.php:50
+msgid "Shape"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/font-awesome.php:51
+msgid "Round"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/font-awesome.php:67
+msgid "6x"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/font-awesome.php:79
+msgid "Fade"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/font-awesome.php:80
+msgid "Rotate"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/font-awesome.php:88
+msgid "Icon Link"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/font-awesome.php:117
+#: ../apps/shortcode/vc-blocks/heading.php:54
+#: ../apps/shortcode/vc-blocks/tagline-box.php:37
+#: ../apps/shortcode/vc-blocks/tagline-box.php:60
+msgid "Left"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/font-awesome.php:118
+#: ../apps/shortcode/vc-blocks/heading.php:55
+#: ../apps/shortcode/vc-blocks/tagline-box.php:38
+#: ../apps/shortcode/vc-blocks/tagline-box.php:61
+msgid "Right"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/font-awesome.php:119
+#: ../apps/shortcode/vc-blocks/heading.php:56
+#: ../apps/shortcode/vc-blocks/tagline-box.php:39
+msgid "Center"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/heading.php:4
+msgid "Heading"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/heading.php:33
+#: ../apps/shortcode/vc-blocks/heading.php:51
+#: ../apps/shortcode/vc-blocks/icon_content.php:33
+msgid "Select Style"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/heading.php:37
+#: ../apps/shortcode/vc-blocks/icon_content.php:37
+msgid "Style 1"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/heading.php:38
+#: ../apps/shortcode/vc-blocks/icon_content.php:38
+msgid "Style 2"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/heading.php:39
+#: ../apps/shortcode/vc-blocks/icon_content.php:39
+msgid "Style 3"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/heading.php:40
+#: ../apps/shortcode/vc-blocks/icon_content.php:40
+msgid "Style 4"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/heading.php:41
+msgid "Style 5"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/heading.php:42
+msgid "Style 6"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/heading.php:43
+msgid "Style 7"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/heading.php:67
+msgid "H1"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/heading.php:68
+msgid "H2"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/heading.php:69
+msgid "H3"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/heading.php:70
+msgid "H4"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/heading.php:71
+msgid "H5"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/heading.php:72
+msgid "H6"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/icon_content.php:4
+msgid "Icon Content"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/icon_content.php:18
+msgid ""
+"Slect the icon or copy and past the icon from a http://fontawesome.io/"
+"cheatsheet/ EXAM: fa-adjust"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/icon_content.php:81
+msgid "CSS Animation"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/icon_content.php:85
+msgid "Top to bottom"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/icon_content.php:86
+msgid "Bottom to top"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/icon_content.php:87
+msgid "Left to right"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/icon_content.php:88
+msgid "Right to left"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/icon_content.php:89
+msgid "Appear from center"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/map.php:4
+msgid "Map"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/map.php:15
+msgid "Address"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/map.php:24
+msgid "Map Type"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/map.php:27
+msgid "Satellite"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/map.php:28
+msgid "Roadmap"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/map.php:29
+msgid "Hybrid"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/map.php:30
+msgid "Terrain"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/map.php:56
+msgid "zoom"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/post-gallery.php:4
+msgid "Post Gallery"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/post-gallery.php:15
+msgid "Id"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/post-gallery.php:33
+msgid "Select Column"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/post-list.php:4
+msgid "Post List"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/post-list.php:24
+msgid "Post Category"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/post-list.php:28
+msgid "Select a Category to display Post items form that category"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/post-list.php:40
+msgid "Select No if you select a category to display Post items"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/progress_bar.php:4
+msgid "Progress Bar"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/tagline-box.php:4
+msgid "Tagline Box"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/tagline-box.php:33
+msgid "Button Align"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/tagline-box.php:59
+msgid "Top"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/tagline-box.php:62
+msgid "Bottom"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/text-block.php:4
+#: ../apps/shortcode/widgets/text-block.php:8
+msgid "Text Block"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/vimeo.php:15
+msgid "Vimeo Video id"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/vimeo.php:24
+msgid "Vimeo Video Width"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/vimeo.php:33
+msgid "Vimeo Video Height"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/youtube.php:15
+msgid "Youtube Video id"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/youtube.php:24
+msgid "Youtube Video Width"
+msgstr ""
+
+#: ../apps/shortcode/vc-blocks/youtube.php:33
+msgid "Youtube Video Height"
+msgstr ""
+
+#: ../apps/shortcode/widgets/accordion.php:7
+msgid "Accordion (well)"
+msgstr ""
+
+#: ../apps/shortcode/widgets/accordion.php:8
+msgid "Display Accordion Tabs"
+msgstr ""
+
+#: ../apps/shortcode/widgets/alert.php:7
+msgid "Alert (well)"
+msgstr ""
+
+#: ../apps/shortcode/widgets/alert.php:8
+msgid "Alert message boxes"
+msgstr ""
+
+#: ../apps/shortcode/widgets/audio.php:7
+msgid "SoundCloud (well)"
+msgstr ""
+
+#: ../apps/shortcode/widgets/audio.php:8
+msgid "Display soundcloud in good way"
+msgstr ""
+
+#: ../apps/shortcode/widgets/audio.php:21
+msgid "Soundcloud Audio url"
+msgstr ""
+
+#: ../apps/shortcode/widgets/audio.php:37
+msgid "height"
+msgstr ""
+
+#: ../apps/shortcode/widgets/checklist.php:7
+msgid "Checklist (well)"
+msgstr ""
+
+#: ../apps/shortcode/widgets/checklist.php:8
+msgid "Display Checklist using ul tag"
+msgstr ""
+
+#: ../apps/shortcode/widgets/checklist.php:48
+#: ../apps/shortcode/widgets/checklist.php:56
+#: ../apps/shortcode/widgets/counter_circle.php:22
+#: ../apps/shortcode/widgets/counter_circle.php:30
+#: ../apps/shortcode/widgets/image.php:132
+#: ../apps/shortcode/widgets/progress_bar.php:22
+#: ../apps/shortcode/widgets/progress_bar.php:30
+msgid "Example: #000000"
+msgstr ""
+
+#: ../apps/shortcode/widgets/counter_box.php:7
+msgid "Counter box (well)"
+msgstr ""
+
+#: ../apps/shortcode/widgets/counter_box.php:8
+msgid "Display Counter box"
+msgstr ""
+
+#: ../apps/shortcode/widgets/counter_box.php:30
+#: ../apps/shortcode/widgets/counter_circle.php:46
+#: ../apps/shortcode/widgets/progress_bar.php:46
+msgid "Example: HTML, CSS"
+msgstr ""
+
+#: ../apps/shortcode/widgets/counter_circle.php:7
+msgid "Counter Circle (well)"
+msgstr ""
+
+#: ../apps/shortcode/widgets/counter_circle.php:8
+#: ../apps/shortcode/widgets/progress_bar.php:8
+msgid "Display Counter Circle"
+msgstr ""
+
+#: ../apps/shortcode/widgets/divider.php:7
+msgid "Divider (well)"
+msgstr ""
+
+#: ../apps/shortcode/widgets/icon_content.php:7
+msgid "Icon Content (well)"
+msgstr ""
+
+#: ../apps/shortcode/widgets/icon_content.php:8
+msgid "Contents with Icons"
+msgstr ""
+
+#: ../apps/shortcode/widgets/icon_content.php:54
+msgid "include the full url including http://"
+msgstr ""
+
+#: ../apps/shortcode/widgets/image.php:7
+msgid "Image (well)"
+msgstr ""
+
+#: ../apps/shortcode/widgets/image.php:8
+msgid "Display Image in good way"
+msgstr ""
+
+#: ../apps/shortcode/widgets/image.php:98
+msgid "link"
+msgstr ""
+
+#: ../apps/shortcode/widgets/image.php:122
+msgid "Border width"
+msgstr ""
+
+#: ../apps/shortcode/widgets/map.php:7
+msgid "map (well)"
+msgstr ""
+
+#: ../apps/shortcode/widgets/map.php:8
+msgid "Display map in good way"
+msgstr ""
+
+#: ../apps/shortcode/widgets/progress_bar.php:7
+msgid "Progress Bar (well)"
+msgstr ""
+
+#: ../apps/shortcode/widgets/tab.php:7
+msgid "Tab (well)"
+msgstr ""
+
+#: ../apps/shortcode/widgets/tab.php:8
+msgid "Display Tabs"
+msgstr ""
+
+#: ../apps/shortcode/widgets/tagline-box.php:7
+msgid "Tagline (well)"
+msgstr ""
+
+#: ../apps/shortcode/widgets/tagline-box.php:8
+msgid "Display tagline in good way"
+msgstr ""
+
+#: ../apps/shortcode/widgets/text-block.php:7
+msgid "Text Block (well)"
+msgstr ""
+
+#: ../apps/shortcode/widgets/vimeo.php:7
+msgid "Vimeo (well)"
+msgstr ""
+
+#: ../apps/shortcode/widgets/vimeo.php:8
+msgid "Display vimeo in good way"
+msgstr ""
+
+#: ../apps/shortcode/widgets/vimeo.php:21
+msgid "Vimeo Video Id"
+msgstr ""
+
+#: ../apps/shortcode/widgets/vimeo.php:22
+msgid "Example: #85171830"
+msgstr ""
+
+#: ../apps/shortcode/widgets/youtube.php:7
+msgid "youtube (well)"
+msgstr ""
+
+#: ../apps/shortcode/widgets/youtube.php:8
+msgid "Display youtube in good way"
+msgstr ""
+
+#: ../apps/shortcode/widgets/youtube.php:22
+msgid "Example: #7GrodWcxpP0"
+msgstr ""
+
+#: ../apps/slideshow/slideshow.php:19
+msgid "Add New Slideshow"
+msgstr ""
+
+#: ../apps/slideshow/slideshow.php:20
+msgid "New Slideshow"
+msgstr ""
+
+#: ../apps/slideshow/slideshow.php:21
+msgid "Edit Slideshow"
+msgstr ""
+
+#: ../apps/slideshow/slideshow.php:22
+msgid "View Slideshow"
+msgstr ""
+
+#: ../apps/slideshow/slideshow.php:23
+msgid "All Slideshows"
+msgstr ""
+
+#: ../apps/slideshow/slideshow.php:24
+msgid "Search Slideshows"
+msgstr ""
+
+#: ../apps/slideshow/slideshow.php:25
+msgid "Parent Slideshows:"
+msgstr ""
+
+#: ../apps/slideshow/slideshow.php:26
+msgid "No Slideshows found."
+msgstr ""
+
+#: ../apps/slideshow/slideshow.php:27
+msgid "No Slideshows found in Trash."
+msgstr ""
+
+#: ../apps/slideshow/slideshow.php:69
+msgid "Click on the Add New Button to add more slider."
+msgstr ""
+
+#: ../apps/testimonial/testimonial-metabox.php:5
+msgid "Testimonial Info"
+msgstr ""
+
+#: ../apps/testimonial/testimonial-theme-compat.php:72
+msgid "Testimonial Archive"
+msgstr ""
+
+#: ../apps/testimonial/testimonial-theme-compat.php:76
+msgid "Testimonial Category: "
+msgstr ""
+
+#: ../apps/testimonial/testimonial-typs.php:4
+msgid "Testimonials "
+msgstr ""
+
+#: ../apps/testimonial/testimonial-typs.php:5
+msgid "Testimonial"
+msgstr ""
+
+#: ../apps/testimonial/testimonial-typs.php:7
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../apps/testimonial/testimonial-typs.php:8
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../apps/testimonial/testimonial-typs.php:9
+msgid "New Testimonial"
+msgstr ""
+
+#: ../apps/testimonial/testimonial-typs.php:10
+msgid "All Testimonials"
+msgstr ""
+
+#: ../apps/testimonial/testimonial-typs.php:11
+msgid "View Testimonials"
+msgstr ""
+
+#: ../apps/testimonial/testimonial-typs.php:12
+msgid "Search Testimonials"
+msgstr ""
+
+#: ../apps/testimonial/testimonial-typs.php:13
+msgid "No Testimonials found"
+msgstr ""
+
+#: ../apps/testimonial/testimonial-typs.php:14
+msgid "No Testimonials found in Trash"
+msgstr ""
+
+#: ../apps/testimonial/testimonial-typs.php:16
+msgid "Testimonials"
+msgstr ""
+
+#: ../apps/testimonial/testimonial-typs.php:39
+msgid "Testimonial Categories"
+msgstr ""
+
+#: ../apps/testimonial/testimonial-typs.php:40
+#: ../apps/testimonial/testimonial-vc.php:116
+msgid "Testimonial Category"
+msgstr ""
+
+#: ../apps/testimonial/testimonial-typs.php:41
+msgid "Search Testimonial Categories"
+msgstr ""
+
+#: ../apps/testimonial/testimonial-typs.php:42
+msgid "Popular Testimonial Categories"
+msgstr ""
+
+#: ../apps/testimonial/testimonial-typs.php:43
+msgid "All Testimonial Categories"
+msgstr ""
+
+#: ../apps/testimonial/testimonial-typs.php:44
+msgid "Edit Testimonial Category"
+msgstr ""
+
+#: ../apps/testimonial/testimonial-typs.php:45
+msgid "Update Testimonial Category"
+msgstr ""
+
+#: ../apps/testimonial/testimonial-typs.php:46
+msgid "Add New Testimonial Category"
+msgstr ""
+
+#: ../apps/testimonial/testimonial-typs.php:47
+msgid "New Testimonial Category Name"
+msgstr ""
+
+#: ../apps/testimonial/testimonial-typs.php:48
+msgid "Separate Testimonial Categories with commas"
+msgstr ""
+
+#: ../apps/testimonial/testimonial-typs.php:49
+msgid "Add or remove Testimonial Categories"
+msgstr ""
+
+#: ../apps/testimonial/testimonial-typs.php:50
+msgid "Choose from the most used Testimonial Categories"
+msgstr ""
+
+#: ../apps/testimonial/testimonial-typs.php:51
+msgid "No Testimonial Categories found."
+msgstr ""
+
+#: ../apps/testimonial/testimonial-vc.php:4
+msgid "Testimonial [Grid]"
+msgstr ""
+
+#: ../apps/testimonial/testimonial-vc.php:24
+#: ../apps/testimonial/testimonial-vc.php:155
+msgid "Testimonials Category"
+msgstr ""
+
+#: ../apps/testimonial/testimonial-vc.php:28
+msgid "Select a Category to display testimonial items form that category"
+msgstr ""
+
+#: ../apps/testimonial/testimonial-vc.php:40
+msgid "Select No if you select a category to display testimonial items"
+msgstr ""
+
+#: ../apps/testimonial/testimonial-vc.php:46
+#: ../apps/testimonial/testimonial-vc.php:126
+#: ../apps/testimonial/testimonial-vc.php:165
+msgid "Testimonial limit"
+msgstr ""
+
+#: ../apps/testimonial/testimonial-vc.php:96
+msgid "Testimonial [Slideshow]"
+msgstr ""
+
+#: ../apps/testimonial/testimonial-vc.php:120
+#: ../apps/testimonial/testimonial-vc.php:159
+msgid "Select a Category to display Testimonial items form that category"
+msgstr ""
+
+#: ../apps/testimonial/testimonial-vc.php:135
+msgid "Testimonial [carousel]"
+msgstr ""
+
+#: ../apps/testimonial/tinymce/carousel.php:10
+#: ../apps/testimonial/tinymce/grid.php:10
+#: ../apps/testimonial/tinymce/slideshow.php:10
+#: ../apps/testimonial/widgets/testimonial-carousel-widget.php:21
+#: ../apps/testimonial/widgets/testimonial-grid-widget.php:21
+#: ../apps/testimonial/widgets/testimonial-slideshow-widget.php:21
+msgid "Testimonial IDs"
+msgstr ""
+
+#: ../apps/testimonial/widgets/testimonial-carousel-widget.php:7
+msgid "Testimonial Carousel (well)"
+msgstr ""
+
+#: ../apps/testimonial/widgets/testimonial-carousel-widget.php:8
+msgid "Show Testimonial item on carousel style"
+msgstr ""
+
+#: ../apps/testimonial/widgets/testimonial-carousel-widget.php:18
+#: ../apps/testimonial/widgets/testimonial-grid-widget.php:18
+#: ../apps/testimonial/widgets/testimonial-slideshow-widget.php:18
+msgid "Recent Testimonials"
+msgstr ""
+
+#: ../apps/testimonial/widgets/testimonial-carousel-widget.php:31
+#: ../apps/testimonial/widgets/testimonial-grid-widget.php:31
+#: ../apps/testimonial/widgets/testimonial-slideshow-widget.php:31
+msgid "Select a Testimonial category"
+msgstr ""
+
+#: ../apps/testimonial/widgets/testimonial-grid-widget.php:7
+msgid "Testimonial Grid (well)"
+msgstr ""
+
+#: ../apps/testimonial/widgets/testimonial-grid-widget.php:8
+msgid "Show Testimonial item on grid style"
+msgstr ""
+
+#: ../apps/testimonial/widgets/testimonial-slideshow-widget.php:7
+msgid "Testimonial Slideshow (well)"
+msgstr ""
+
+#: ../apps/testimonial/widgets/testimonial-slideshow-widget.php:8
+msgid "Show Testimonial item on slideshow style"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:25
+msgid "Test Metabox"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:33
+#: ../includes/metabox-framework/example-functions.php:254
+msgid "Test Text"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:34
+#: ../includes/metabox-framework/example-functions.php:42
+#: ../includes/metabox-framework/example-functions.php:49
+#: ../includes/metabox-framework/example-functions.php:56
+#: ../includes/metabox-framework/example-functions.php:64
+#: ../includes/metabox-framework/example-functions.php:71
+#: ../includes/metabox-framework/example-functions.php:83
+#: ../includes/metabox-framework/example-functions.php:89
+#: ../includes/metabox-framework/example-functions.php:96
+#: ../includes/metabox-framework/example-functions.php:102
+#: ../includes/metabox-framework/example-functions.php:108
+#: ../includes/metabox-framework/example-functions.php:116
+#: ../includes/metabox-framework/example-functions.php:123
+#: ../includes/metabox-framework/example-functions.php:129
+#: ../includes/metabox-framework/example-functions.php:135
+#: ../includes/metabox-framework/example-functions.php:147
+#: ../includes/metabox-framework/example-functions.php:158
+#: ../includes/metabox-framework/example-functions.php:169
+#: ../includes/metabox-framework/example-functions.php:180
+#: ../includes/metabox-framework/example-functions.php:187
+#: ../includes/metabox-framework/example-functions.php:194
+#: ../includes/metabox-framework/example-functions.php:201
+#: ../includes/metabox-framework/example-functions.php:207
+#: ../includes/metabox-framework/example-functions.php:218
+#: ../includes/metabox-framework/example-functions.php:255
+#: ../includes/metabox-framework/example-functions.php:274
+#: ../includes/metabox-framework/example-functions.php:281
+#: ../includes/metabox-framework/example-functions.php:288
+#: ../includes/metabox-framework/example-functions.php:294
+#: ../includes/metabox-framework/example-functions.php:300
+#: ../includes/metabox-framework/example-functions.php:306
+#: ../includes/metabox-framework/example-functions.php:312
+msgid "field description (optional)"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:41
+msgid "Test Text Small"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:48
+msgid "Test Text Medium"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:63
+msgid "Test Text Email"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:70
+msgid "Test Time"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:76
+#: ../includes/metabox-framework/example-functions.php:77
+msgid "Time zone"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:82
+msgid "Test Date Picker"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:88
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:95
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:101
+msgid "Test Date/Time Picker/Time zone Combo (serialized DateTime object)"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:107
+msgid "Test Money"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:115
+msgid "Test Color Picker"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:122
+msgid "Test Text Area"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:128
+msgid "Test Text Area Small"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:134
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:140
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:141
+msgid "This is a title description"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:146
+msgid "Test Select"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:151
+#: ../includes/metabox-framework/example-functions.php:162
+#: ../includes/metabox-framework/example-functions.php:173
+msgid "Option One"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:152
+#: ../includes/metabox-framework/example-functions.php:163
+#: ../includes/metabox-framework/example-functions.php:174
+msgid "Option Two"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:153
+#: ../includes/metabox-framework/example-functions.php:164
+#: ../includes/metabox-framework/example-functions.php:175
+msgid "Option Three"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:157
+msgid "Test Radio inline"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:168
+msgid "Test Radio"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:179
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:186
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:193
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:200
+msgid "Test Checkbox"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:206
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:211
+msgid "Check One"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:212
+msgid "Check Two"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:213
+msgid "Check Three"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:217
+msgid "Test wysiwyg"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:224
+msgid "Test Image"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:225
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:230
+msgid "Multiple Files"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:231
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:236
+msgid "oEmbed"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:237
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at <a "
+"href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/"
+"Embeds</a>."
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:246
+msgid "About Page Metabox"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:267
+msgid "User Profile Metabox"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:273
+msgid "Extra Info"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:280
+msgid "Avatar"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:287
+msgid "Facebook URL"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:293
+msgid "Twitter URL"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:299
+msgid "Google+ URL"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:305
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../includes/metabox-framework/example-functions.php:311
+msgid "User Field"
+msgstr ""
+
+#: ../includes/metabox-framework/init.php:207
+msgid "Clear"
+msgstr ""
+
+#: ../includes/metabox-framework/init.php:208
+msgid "Default"
+msgstr ""
+
+#: ../includes/metabox-framework/init.php:209
+msgid "Select Color"
+msgstr ""
+
+#: ../includes/metabox-framework/init.php:210
+msgid "Current Color"
+msgstr ""
+
+#: ../includes/metabox-framework/init.php:936
+msgid "Save"
+msgstr ""
+
+#: ../includes/metabox-framework/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr ""
+
+#: ../includes/metabox-framework/helpers/cmb_Meta_Box_ajax.php:118
+msgid "Remove Embed"
+msgstr ""
+
+#: ../includes/metabox-framework/helpers/cmb_Meta_Box_ajax.php:121
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: ../includes/metabox-framework/helpers/cmb_Meta_Box_types.php:139
+msgid "Add Row"
+msgstr ""
+
+#: ../includes/metabox-framework/helpers/cmb_Meta_Box_types.php:167
+#: ../includes/metabox-framework/helpers/cmb_Meta_Box_types.php:459
+#: ../includes/metabox-framework/helpers/cmb_Meta_Box_types.php:502
+msgid "Remove"
+msgstr ""
+
+#: ../includes/metabox-framework/helpers/cmb_Meta_Box_types.php:437
+#: ../includes/metabox-framework/helpers/cmb_Meta_Box_types.php:475
+msgid "Add or Upload File"
+msgstr ""
+
+#: ../includes/metabox-framework/helpers/cmb_Meta_Box_types.php:448
+#: ../includes/metabox-framework/helpers/cmb_Meta_Box_types.php:494
+msgid "Remove Image"
+msgstr ""
+
+#: ../includes/metabox-framework/helpers/cmb_Meta_Box_types.php:459
+#: ../includes/metabox-framework/helpers/cmb_Meta_Box_types.php:502
+msgid "File:"
+msgstr ""
+
+#: ../includes/metabox-framework/helpers/cmb_Meta_Box_types.php:459
+#: ../includes/metabox-framework/helpers/cmb_Meta_Box_types.php:502
+msgid "Download"
+msgstr ""
+
+#: ../includes/TinyMCE-framework/Easy-tinyMCE-content.class.php:58
+msgid "Insert Shortcode"
+msgstr ""
+
+#: ../includes/TinyMCE-framework/Easy-tinyMCE-content.class.php:59
+msgid "Cancel"
+msgstr ""
+
+#: ../includes/wp-mixitup-grid/wp-mixitup-grid.class.php:288
+msgid "All"
+msgstr ""
+
+#: ../includes/wph-widget-class/widget-sample.php:32
+msgid "My Recent Posts"
+msgstr ""
+
+#: ../includes/wph-widget-class/widget-sample.php:34
+msgid "My Recent Posts Widget Description"
+msgstr ""
+
+#: ../includes/wph-widget-class/widget-sample.php:48
+msgid "Enter the widget title."
+msgstr ""
+
+#: ../includes/wph-widget-class/widget-sample.php:56
+msgid "Recent Posts"
+msgstr ""
+
+#: ../includes/wph-widget-class/widget-sample.php:108
+msgid "Amount"
+msgstr ""
+
+#: ../includes/wph-widget-class/widget-sample.php:109
+msgid "Select how many posts to show."
+msgstr ""
+
+#: ../includes/wph-widget-class/widget-sample.php:116
+msgid "1 Post"
+msgstr ""
+
+#: ../includes/wph-widget-class/widget-sample.php:121
+msgid "2 Posts"
+msgstr ""
+
+#: ../includes/wph-widget-class/widget-sample.php:125
+msgid "3 Posts"
+msgstr ""
+
+#: ../includes/wph-widget-class/widget-sample.php:137
+msgid "Output as list"
+msgstr ""
+
+#: ../includes/wph-widget-class/widget-sample.php:138
+msgid "Wraps posts with the <li> tag."
+msgstr ""

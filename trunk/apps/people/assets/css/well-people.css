@@ -1,0 +1,157 @@
+.peowell.skin-1 .peowell-people{ width:100%; height:auto; }
+.peowell.skin-1 .peowell-people-image{ width:100%; line-height:0px; }
+.peowell.skin-1 .peowell-people-image img{ -moz-box-shadow: 2px 3px 7px rgba(0,0,0,.3);	-webkit-box-shadow: 2px 3px 7px rgba(0,0,0,.3); box-shadow: 2px 3px 7px rgba(0,0,0,.3); }
+.peowell.skin-1 .peowell-people:hover .peowell-people-image img{
+	-moz-box-shadow:4px 6px 14px rgba(0,0,0,.6);
+	-webkit-box-shadow:4px 6px 14px rgba(0,0,0,.6); 
+	box-shadow:4px 6px 14px rgba(0,0,0,.6);
+}
+.peowell.skin-1 .peowell-people-details{ padding: 15px 0px 0px; text-align: center; }
+.peowell.skin-1 .peowell-people-author-name{ width:100%; height:auto; line-height: 22px; font-size: 18px; margin:0px; padding:0px; display:inline-block; }
+.peowell.skin-1 .peowell-people-author-name a{ color:inherit; }
+.peowell.skin-1 .peowell-people-author-name a:hover{ text-decoration:none; }
+.peowell.skin-1 .peowell-people-author-postion{ width:100%; height:auto; font-size: 12px; margin:0px; padding:0px; margin-bottom:10px; line-height: 22px; display:inline-block;  }
+.peowell.skin-1 .peowell-people-soicalIcon{ display:inline-block; width:21px; height:21px; border-radius:50%; border:2px solid #666; margin:0 4px 4px 0px; color:inherit;}
+.peowell.skin-1 .peowell-people-soicalIcon i.fa{ line-height:20px; font-size: 12px; }
+
+
+
+/*	Filter
+--------------------------------------*/
+.peowell.skin-1 ul.wp-mixitup-grid-filter{ 
+	margin:0; padding:0; list-style-type:none !important; margin-bottom:20px !important; display:block; overflow:hidden; 
+}
+.peowell.skin-1 ul.wp-mixitup-grid-filter li{ 
+	margin:0; 
+	padding:0; 
+	list-style-type:none !important; 
+	float:left; 
+	padding:4px 8px;
+	background:#06C; 
+	color:#FFF; 
+	margin-right:3px; 
+	cursor:pointer; 
+}
+.peowell.skin-1 ul.wp-mixitup-grid-filter li.active{ background:#333; }
+
+
+/*	Pagenav
+--------------------------------------*/
+.peowell.skin-1 .wp-mixitup-grid-pagenav {clear: both; margin-top:30px; }
+.peowell.skin-1 .wp-mixitup-grid-pagenav.padding_top{ padding-top:30px; }
+.peowell.skin-1 .wp-mixitup-grid-pagenav.padding_button{ padding-bottom:30px; }
+.peowell.skin-1 .wp-mixitup-grid-pagenav.center{ text-align:center; width:100%; }
+.peowell.skin-1 .wp-mixitup-grid-pagenav span,
+.peowell.skin-1 .wp-mixitup-grid-pagenav a {border: 1px solid #EEEEEE; padding: 5px 10px; text-decoration:none;}
+.peowell.skin-1 .wp-mixitup-grid-pagenav a:hover {border: 1px solid #DDDDDD;}
+.peowell.skin-1 .wp-mixitup-grid-pagenav span.current {background: #FAFAFA; color: inherit; font-weight: 600;}
+
+
+/* FlexSlider Theme
+*********************************/
+/* viewport */
+.peowell-wflds-skin .wp-flexslider-holder { padding-top:20px; }
+
+/* Direction Nav */
+.peowell-wflds-skin .wfs-direction-nav a{ 
+	display: block; 
+	width: 20px; 
+	height: 20px; 
+	position: absolute; 
+	top: -3px; 
+	right:5px;
+	z-index: 10; 
+	overflow: hidden; 
+	cursor: pointer; 
+	color: rgba(0,0,0,0.8); 
+	-webkit-transition: all .3s ease; 
+	-moz-transition: all .3s ease; 
+	transition: all .3s ease; 
+}
+.peowell-wflds-skin .wfs-direction-nav .wfs-prev { right:10px; }
+.peowell-wflds-skin .wfs-direction-nav .wfs-next { text-align: right; right:5px; }
+.peowell-wflds-skin .wp-flexslider-holder:hover .wfs-next:hover,
+.peowell-wflds-skin .wp-flexslider-holder:hover .wfs-prev:hover { opacity: 1; }
+.peowell-wflds-skin .wfs-direction-nav .wfs-disabled { opacity: 0!important; filter:alpha(opacity=0); cursor: default; }
+.peowell-wflds-skin .wfs-direction-nav a:before { font-family: "flexslider-icon"; font-size: 14px; display: inline-block; content: '\f001'; }
+.peowell-wflds-skin .wfs-direction-nav a.wfs-next:before	{ content: '\f002'; }
+
+
+/* Control Nav */
+.peowell-wflds-skin .wfs-control-nav {position: absolute; top: 5px; text-align: center; margin:0; left:0;}
+.peowell-wflds-skin .wfs-control-nav li {margin: 0 6px; display: inline-block; zoom: 1; *display: inline;}
+.peowell-wflds-skin .wfs-control-paging li a {
+	width: 11px; 
+	height: 3px; 
+	display: block; 
+	background: rgba(0,0,0,0.5); 
+	cursor: pointer; 
+	text-indent: -99999px; 
+	
+}
+.peowell-wflds-skin .wfs-control-paging li a:hover { background: #333; background: rgba(0,0,0,0.7); }
+.peowell-wflds-skin .wfs-control-paging li a.wfs-active { background: #000; background: rgba(0,0,0,0.9); cursor: default; }
+
+
+
+
+/*Single page Style*/
+.peowell-people-single .peowell-people-single-contactInfo {width:35%; display:inline-block; float:left;}
+.peowell-people-single .peowell-people-single-contactInfo h3{ margin-bottom: 20px; margin-top: 0px; }
+.peowell-people-single .peowell-people-single-media{ width:61.6%; display:inline-block; float:left; margin-right:3%; }
+
+.peowell-people-single .peowell-people-soicalIcon {
+display: inline-block;
+width: 21px;
+height: 21px;
+border-radius: 50%;
+border: 2px solid #666;
+margin: 0 4px 4px 0px;
+color: inherit;
+}
+.peowell-people-single .peowell-people-details { padding: 0px 0px 0px; text-align: center; }
+
+
+
+
+.peowell-people-single .peowell-people-single-content{  display:inline-block; float:left; }
+.peowell-people-single .peowell-people-single-content h3{ margin-bottom: 10px; margin-top: 10px; }
+.peowell-people-single .peowell-people-author-postion { font-size: 12px; clear: both; display: block; margin-top: -8px;}
+
+.peowell-people-single .peowell-people-single-info{  width:100%; max-width:340px; display:inline-block; float:right; }
+.peowell-people-single .peowell-people-single-info h3{ margin-bottom:10px; margin-top: 10px; }
+.peowell-people-single .peowell-people-single-info ul li{ border-bottom: 1px solid #525050; padding-bottom: 15px; margin-bottom: 15px; overflow: hidden; list-style:none; margin-left:0px; }
+.peowell-people-single .peowell-people-single-info ul li strong{ display:inline-block; width:40%; float:left; }
+.peowell-people-single .peowell-people-single-info ul li .people-peowell{ width:55%; float:right; }
+
+
+/* #Laptop [ 960px ]
+================================================== */
+@media only screen and (max-width: 966px) {
+	
+}
+
+/* #Tablet (Portrait) [ 768px ]
+================================================== */
+@media only screen and (min-width: 768px) and (max-width: 789px) {	
+	.peowell-people-single .peowell-people-single-media{ width:100%; margin-right:0%; }
+	.peowell-people-single .peowell-people-single-info { max-width:100%; }
+	.peowell-people-single .peowell-people-single-contactInfo{ width:100%; }
+}
+
+
+/*  #Mobile (Portrait) [ 320px ]
+================================================== */
+@media only screen and (max-width: 767px) {
+	.peowell-people-single .peowell-people-single-media{ width:100%; margin-right:0%; }
+	.peowell-people-single .peowell-people-single-contactInfo{ width:100%; }
+}
+
+
+/* #Mobile (Landscape) [ 480px ]
+================================================== */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.peowell-people-single .peowell-people-single-media{ width:100%; margin-right:0%; }
+	.peowell-people-single .peowell-people-single-info { max-width:100%; }
+	.peowell-people-single .peowell-people-single-contactInfo{ width:100%; }
+}

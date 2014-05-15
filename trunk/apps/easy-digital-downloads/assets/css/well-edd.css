@@ -1,0 +1,30 @@
+.well-edd-item{ border: solid 1px #EAE9E9;  }
+.well-edd-item .well_edd_title_holder{ padding: 0 15px 15px 15px; }
+.well-edd-item .well_edd_title_holder .well_edd_title{ padding: .5em 0;margin: 0;font-size: 16px; line-height:1.4; }
+.well-edd-item .well_edd_title_holder .well_edd_title a{ color:inherit !important; }
+.well-edd-item .well_edd_title_holder .well_edd_price{ margin-bottom: 0 !important; display: inline;  font-size: 12px;line-height: 24px;font-weight: bold; }
+.well-edd-item .well_edd_button_holder{ border-top: solid 1px #EAE9E9;padding: 15px 10px;overflow: hidden;opacity: 0.8;background: #F4F4F4;}
+.well-edd-item .well_edd_button_holder .well_edd_button a{ 
+	min-width: 50px;
+	float: left;
+	width: 49%;
+	text-align: center;
+	font-size: 11px;
+	font-weight: 600;
+	line-height: 15px;
+	margin: 0;
+	color: inherit !important; 
+	background:none !important;
+}
+.well-edd-item .well_edd_button_holder .well_edd_button a span.edd-add-to-cart-label:before,
+.well-edd-item .well_edd_button_holder .well_edd_button a.edd_go_to_checkout:before{  
+	display: inline-block;
+	font-family: FontAwesome;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	content: "\f07a";
+	padding-right:3px;
+}

@@ -1,0 +1,165 @@
+.portwell.skin-1 .portwell-portfolio-item{	
+	width:100%;	
+	height:auto;
+	-webkit-transition-duration: .4s, .3s;
+	-moz-transition-duration: .4s, .3s;
+	-o-transition-duration: .4s, .3s;
+	transition-duration: .4s, .3s;
+	-webkit-transition-timing-function: linear, ease-in;
+	-moz-transition-timing-function: linear, ease-in;
+	-o-transition-timing-function: linear, ease-in;
+	transition-timing-function: linear, ease-in;
+}
+/*.portwell.skin-1 .isotope-wp-child-item{ float:left; }*/
+.portwell.skin-1 .portwell-portfolio-item:hover{ opacity:0.7; }
+.portwell.skin-1 .portwell-portfolio-item a{ text-decoration:none;}
+.portwell.skin-1 .portwell-portfolio-item a:hover{ text-decoration:none; }
+.portwell.skin-1 .portwell-portfolio-item-image{ width:100%; line-height:0px; }
+.portwell.skin-1 .portwell-portfolio-item-image img{ -webkit-border-top-left-radius: 3px; -webkit-border-top-right-radius: 3px; border-top-left-radius: 3px; border-top-right-radius: 3px;}
+.portwell.skin-1 .portwell-portfolio-item-details {
+	display: block;
+	position: relative;
+	background-color: #fff;
+	opacity: 1;
+	border: 1px solid #E1E1E1;
+	-webkit-border-radius: 3px;
+	-webkit-border-top-left-radius: 0;
+	-webkit-border-top-right-radius: 0;
+	border-radius: 3px;
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+	border-top: none;
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+	
+	display: block;
+	padding: 20px;
+	font-size: 15px;
+	font-weight: normal;
+}
+.portwell.skin-1 .portwell-portfolio-item-details h3.portwell-portfolio-item-heading{ margin:0px !important; display: block; }
+.portwell.skin-1 .portwell-portfolio-item-details portwell-portfolio-item-subheading{  }
+.portwell.skin-1 .portwell-portfolio-item-details .iconcolor{ top: -15px; position: absolute; color: #FFF; font-size: 24px; display: block; }
+
+
+/*	Filter
+--------------------------------------*/
+.portwell.skin-1 ul.wp-mixitup-grid-filter{ 
+	margin:0; padding:0; list-style-type:none !important; margin-bottom:20px !important; display:block; overflow:hidden; 
+}
+.portwell.skin-1 ul.wp-mixitup-grid-filter li{ 
+	margin:0; 
+	padding:0; 
+	list-style-type:none !important; 
+	float:left; 
+	padding:4px 8px;
+	background:#06C; 
+	color:#FFF; 
+	margin-right:3px; 
+	cursor:pointer; 
+}
+.portwell.skin-1 ul.wp-mixitup-grid-filter li.active{ background:#333; }
+
+
+/*	Pagenav
+--------------------------------------*/
+.portwell.skin-1 .wp-mixitup-grid-pagenav {clear: both; margin-top:30px; }
+.portwell.skin-1 .wp-mixitup-grid-pagenav.padding_top{ padding-top:30px; }
+.portwell.skin-1 .wp-mixitup-grid-pagenav.padding_button{ padding-bottom:30px; }
+.portwell.skin-1 .wp-mixitup-grid-pagenav.center{ text-align:center; width:100%; }
+.portwell.skin-1 .wp-mixitup-grid-pagenav span,
+.portwell.skin-1 .wp-mixitup-grid-pagenav a {border: 1px solid #EEEEEE; padding: 5px 10px; text-decoration:none;}
+.portwell.skin-1 .wp-mixitup-grid-pagenav a:hover {border: 1px solid #DDDDDD;}
+.portwell.skin-1 .wp-mixitup-grid-pagenav span.current {background: #FAFAFA; color: inherit; font-weight: 600;}
+
+
+/* FlexSlider Theme
+*********************************/
+/* viewport */
+.portwell-wflds-skin .wp-flexslider-holder { padding-top:20px; }
+
+/* Direction Nav */
+.portwell-wflds-skin .wfs-direction-nav a{ 
+	display: block; 
+	width: 20px; 
+	height: 20px; 
+	position: absolute; 
+	top: -3px; 
+	right:5px;
+	z-index: 10; 
+	overflow: hidden; 
+	cursor: pointer; 
+	color: rgba(0,0,0,0.8); 
+	-webkit-transition: all .3s ease; 
+	-moz-transition: all .3s ease; 
+	transition: all .3s ease; 
+}
+.portwell-wflds-skin .wfs-direction-nav .wfs-prev { right:10px; }
+.portwell-wflds-skin .wfs-direction-nav .wfs-next { text-align: right; right:5px; }
+.portwell-wflds-skin .wp-flexslider-holder:hover .wfs-next:hover,
+.portwell-wflds-skin .wp-flexslider-holder:hover .wfs-prev:hover { opacity: 1; }
+.portwell-wflds-skin .wfs-direction-nav .wfs-disabled { opacity: 0!important; filter:alpha(opacity=0); cursor: default; }
+.portwell-wflds-skin .wfs-direction-nav a:before { font-family: "flexslider-icon"; font-size: 14px; display: inline-block; content: '\f001'; }
+.portwell-wflds-skin .wfs-direction-nav a.wfs-next:before	{ content: '\f002'; }
+
+
+/* Control Nav */
+.portwell-wflds-skin .wfs-control-nav {position: absolute; top: 5px; text-align: center; margin:0; left:0;}
+.portwell-wflds-skin .wfs-control-nav li {margin: 0 6px; display: inline-block; zoom: 1; *display: inline;}
+.portwell-wflds-skin .wfs-control-paging li a {
+	width: 11px; 
+	height: 3px; 
+	display: block; 
+	background: rgba(0,0,0,0.5); 
+	cursor: pointer; 
+	text-indent: -99999px; 
+	
+}
+.portwell-wflds-skin .wfs-control-paging li a:hover { background: #333; background: rgba(0,0,0,0.7); }
+.portwell-wflds-skin .wfs-control-paging li a.wfs-active { background: #000; background: rgba(0,0,0,0.9); cursor: default; }
+
+
+/*Single page Style*/
+/*.portwell-portfolio-single .portwell-portfolio-single-media{ float: left; margin-right:3%; }*/
+
+.portwell-portfolio-single .portwell-portfolio-single-content{  width:60%; display:inline-block; float:left; }
+.portwell-portfolio-single .portwell-portfolio-single-content h3{ margin-bottom: 10px; margin-top: 10px; }
+
+.portwell-portfolio-single .portwell-portfolio-single-info{  width:34.2%; display:inline-block; float:right; }
+.portwell-portfolio-single .portwell-portfolio-single-info h3{ margin-bottom:10px; margin-top: 10px; }
+.portwell-portfolio-single .portwell-portfolio-single-info ul li{ border-bottom: 1px solid #525050; padding-bottom: 15px; margin-bottom: 15px; overflow: hidden; list-style:none; margin-left:0px; }
+.portwell-portfolio-single .portwell-portfolio-single-info ul li strong{ display:inline-block; width:40%; float:left; }
+.portwell-portfolio-single .portwell-portfolio-single-info ul li .project-portwell{ width:55%; float:right; }
+
+
+
+
+/* #Laptop [ 960px ]
+================================================== */
+@media only screen and (max-width: 966px) {
+	
+}
+
+/* #Tablet (Portrait) [ 768px ]
+================================================== */
+@media only screen and (min-width: 768px) and (max-width: 789px) {	
+	.portwell-portfolio-single .portwell-portfolio-single-content{ width:100%; }
+	.portwell-portfolio-single .portwell-portfolio-single-info{ width:100%; }
+}
+
+
+/*  #Mobile (Portrait) [ 320px ]
+================================================== */
+@media only screen and (max-width: 767px) {
+	.portwell-portfolio-single .portwell-portfolio-single-info{ width:100%; }
+	.portwell-portfolio-single .portwell-portfolio-single-content{ width:100%; }
+}
+
+
+/* #Mobile (Landscape) [ 480px ]
+================================================== */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.portwell-portfolio-single .portwell-portfolio-single-info{ width:100%; }
+	.portwell-portfolio-single .portwell-portfolio-single-content{ width:100%; }
+}
