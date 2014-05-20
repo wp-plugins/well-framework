@@ -10,7 +10,7 @@ function acoc_load_extranal_scripts(){
 	
 	wp_register_script( 'jquery-imagesloaded', $js.'imagesloaded.pkgd.min.js', '', '3.1.6', true );
 	
-	wp_register_script( 'jquery-isotope','https://raw.githubusercontent.com/tallythemes/video/master/isotope.pkgd.min.js', '', '2.0.0', true );
+	wp_register_script( 'jquery-isotope','http://cdn.jsdelivr.net/isotope/2.0.0/isotope.pkgd.min.js', '', '2.0.0', true );
 	wp_register_script( 'jquery-shuffle', $js.'jquery.shuffle.min.js', array('jquery', 'modernizr'), '2.1.1', true );
 	wp_enqueue_script( 'jquery-masonry', $js.'masonry.pkgd.min.js', array('jquery'), '2.1.1', true );
 	
