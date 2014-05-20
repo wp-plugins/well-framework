@@ -1,0 +1,18 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">gallerywell</custom-type>
+		<custom-type translate="1">faqwell</custom-type>
+		<custom-type translate="1">logowell</custom-type>
+		<custom-type translate="1">peowell</custom-type>
+		<custom-type translate="1">portwell</custom-type>
+		<custom-type translate="1">tmwell</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">gallerywell_cat</taxonomy>
+		<taxonomy translate="1">faqwell_cat</taxonomy>
+		<taxonomy translate="1">logowell_cat</taxonomy>
+		<taxonomy translate="1">peowell_cat</taxonomy>
+		<taxonomy translate="1">portwell_cat</taxonomy>
+		<taxonomy translate="1">tmwell_cat</taxonomy>
+	</taxonomies>
+</wpml-config>
