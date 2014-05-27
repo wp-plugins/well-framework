@@ -4,7 +4,7 @@
 ----------------------------------------------*/
 add_filter( 'template_include', 'gallerywell_template_loader' );
 function gallerywell_template_loader( $template ) {
-	$find = array('well-framework.php','page.php','index.php');
+	$find = array();
 	$file = '';
 	$typs = 'gallerywell';
 	$tax = 'gallerywell_cat';
@@ -19,6 +19,10 @@ function gallerywell_template_loader( $template ) {
 		$file   = 'taxonomy-'.$tax.'.php';
 		$find[] = $file;
 	}
+	
+	$find[] = 'well-framework.php';
+	$find[] = 'page.php';
+	$find[] = 'index.php';
 	
 	if($file){ $template = locate_template( $find ); }
 
