@@ -66,7 +66,7 @@ class portwell_shortcodes{
 			'cat'		=> '',
 			'limit'		=> 9,
 		), $atts ) );
-						
+				
 		$attr = array(		
 			'div_class' => 'portwell portwell-wflds-skin skin-1',
 			'file_url' => PORTWELL_DRI.'templates/archive-item.php',
@@ -127,11 +127,13 @@ class portwell_shortcodes{
 		$query_args['post_type'] = array( 'portwell' );
 		if($id) { $query_args['post__in'] = explode(",", $id); } 
 		$query = new WP_Query($query_args);
-			
+		
+		global $wefr_portfolio_template_path;
+		
 		ob_start();
 			if($query->have_posts()):
 				while( $query->have_posts() ): $query->the_post();
-					include(PORTWELL_DRI.'templates/single-item.php');
+					include($wefr_portfolio_template_path->dri().'single-item.php');
 				endwhile;
 			else:
 				echo 'No Post Found';
