@@ -3,7 +3,7 @@
 Plugin Name: Well Framework
 Plugin URI: http://themeforest.net/user/bignet
 Description: A wordpress Plugin
-Version: 1.5.1
+Version: 1.5.2
 Author: Bignet
 Author URI: http://themeforest.net/user/bignet/portfolio
 
