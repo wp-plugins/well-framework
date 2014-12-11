@@ -48,7 +48,7 @@ class tmwell_shortcodes{
 		
 		global $wefr_testimonial_template_path;
 		ob_start();
-		include($wefr_testimonial_template_path->dri().'grid.php');
+		include(testimonialwell_gallery_template_path('dri', 'grid.php'));
 		$output = ob_get_contents();
 		ob_end_clean();
 		

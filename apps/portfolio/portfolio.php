@@ -14,16 +14,26 @@ define('PORTWELL_DRI', $path_dir );
 
 /* Setup Themplate File loader
 -------------------------------------------------*/
-$settings = array(
-	'child_url'  => get_stylesheet_directory_uri().'/well-framework/portfolio/',
-	'theme_url'  => get_template_directory_uri().'/well-framework/portfolio/',
-	'plugin_url' => PORTWELL_DRI.'template/',
-			
-	'child_dri'  => get_stylesheet_directory().'/well-framework/portfolio/',
-	'theme_dri'  => get_template_directory().'/well-framework/portfolio/',
-	'plugin_dri' => PORTWELL_DRI.'template/',
-);
-$wefr_portfolio_template_path = new acoc_template_file_loader($settings);
+if(!function_exists('portwellwell_gallery_template_path')):
+	function portwellwell_gallery_template_path($type='url', $extra = ''){
+		$settings = array(
+			'child_url'  => get_stylesheet_directory_uri().'/well-framework/portfolio/',
+			'theme_url'  => get_template_directory_uri().'/well-framework/portfolio/',
+			'plugin_url' => PORTWELL_DRI.'templates/',
+					
+			'child_dri'  => get_stylesheet_directory().'/well-framework/portfolio/',
+			'theme_dri'  => get_template_directory().'/well-framework/portfolio/',
+			'plugin_dri' => PORTWELL_DRI.'templates/',
+		);
+		$template = new acoc_template_file_loader($settings);
+		
+		if($type == 'url'){
+			return $template->url($extra);
+		}else{
+			return $template->dri($extra);
+		}
+	}
+endif;
 
 require_once('portfolio-typs.php');
 require_once('portfolio-functions.php');

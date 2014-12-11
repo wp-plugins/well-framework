@@ -50,7 +50,7 @@ class portwell_shortcodes{
 		
 		global $wefr_portfolio_template_path;
 		ob_start();
-		include($wefr_portfolio_template_path->dri().'grid.php');
+		include(portwellwell_gallery_template_path('dri', 'grid.php'));
 		$output = ob_get_contents();
 		ob_end_clean();
 		
@@ -133,7 +133,7 @@ class portwell_shortcodes{
 		ob_start();
 			if($query->have_posts()):
 				while( $query->have_posts() ): $query->the_post();
-					include($wefr_portfolio_template_path->dri().'single-item.php');
+					include(portwellwell_gallery_template_path('dri', 'single-item.php'));
 				endwhile;
 			else:
 				echo 'No Post Found';

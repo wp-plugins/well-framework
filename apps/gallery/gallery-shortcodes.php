@@ -19,10 +19,9 @@ class gallerywell_shortcodes{
 			'column_margin'		=> '3',
 		), $atts ) );
 		
-		global $wefr_gallery_template_path;
 		ob_start();
-		include($wefr_gallery_template_path->dri().'grid-single.php');
-		$output = ob_get_contents();
+			include(gallerywell_gallery_template_path('dri', 'grid-single.php'));
+			$output = ob_get_contents();
 		ob_end_clean();
 		
 		if($id == "") { $output = __('No ID given in the shortcode','well_textdomain'); }
@@ -54,7 +53,7 @@ class gallerywell_shortcodes{
 						
 				$attr = array(		
 					'div_class' => 'gallerywell wflds-skin skin-1',
-					'file_url' => GALLERYWELL_DRI.'templates/single-item.php',
+					'file_url' => gallerywell_gallery_template_path('dri', 'single-item.php'),
 					
 					'the_array' => $gallery_items,
 					
@@ -99,7 +98,7 @@ class gallerywell_shortcodes{
 						
 				$attr = array(		
 					'div_class' => 'gallerywell wflds-skin skin-1',
-					'file_url' => GALLERYWELL_DRI.'templates/single-item.php',
+					'file_url' => gallerywell_gallery_template_path('dri', 'single-item.php'),
 					
 					'the_array' => $gallery_items,
 				);
@@ -156,7 +155,7 @@ class gallerywell_shortcodes{
 		
 		global $wefr_gallery_template_path;
 		ob_start();
-		include($wefr_gallery_template_path->dri().'grid-archive.php');
+		include(gallerywell_gallery_template_path('dri', 'grid-archive.php'));
 		$output = ob_get_contents();
 		ob_end_clean();
 		
@@ -175,7 +174,7 @@ class gallerywell_shortcodes{
 						
 		$attr = array(		
 			'div_class' => 'gallerywell wflds-skin skin-1',
-			'file_url' => GALLERYWELL_DRI.'templates/archive-item.php',
+			'file_url' => gallerywell_gallery_template_path('dri', 'archive-item.php'),
 							
 			'post_type' => 'gallerywell',
 			'taxonomy' => 'gallerywell_cat',

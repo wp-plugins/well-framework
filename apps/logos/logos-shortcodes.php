@@ -48,7 +48,7 @@ class logowell_shortcodes{
 		
 		global $wefr_logos_template_path;
 		ob_start();
-		include($wefr_logos_template_path->dri().'grid.php');
+		include(logowell_gallery_template_path('dri', 'grid.php'));
 		$output = ob_get_contents();
 		ob_end_clean();
 		

@@ -13,16 +13,26 @@ define('GALLERYWELL_DRI', $path_dir );
 
 /* Setup Themplate File loader
 -------------------------------------------------*/
-$settings = array(
-	'child_url'  => get_stylesheet_directory_uri().'/well-framework/gallery',
-	'theme_url'  => get_template_directory_uri().'/well-framework/gallery/',
-	'plugin_url' => GALLERYWELL_DRI.'template/',
-			
-	'child_dri'  => get_stylesheet_directory().'/well-framework/gallery/',
-	'theme_dri'  => get_template_directory().'/well-framework/gallery/',
-	'plugin_dri' => GALLERYWELL_DRI.'template/',
-);
-$wefr_gallery_template_path = new acoc_template_file_loader($settings);
+if(!function_exists('gallerywell_gallery_template_path')):
+	function gallerywell_gallery_template_path($type='url', $extra = ''){
+		$settings = array(
+			'child_url'  => get_stylesheet_directory_uri().'/well-framework/gallery',
+			'theme_url'  => get_template_directory_uri().'/well-framework/gallery/',
+			'plugin_url' => GALLERYWELL_DRI.'templates/',
+					
+			'child_dri'  => get_stylesheet_directory().'/well-framework/gallery/',
+			'theme_dri'  => get_template_directory().'/well-framework/gallery/',
+			'plugin_dri' => GALLERYWELL_DRI.'templates/',
+		);
+		$template = new acoc_template_file_loader($settings);
+		
+		if($type == 'url'){
+			return $template->url($extra);
+		}else{
+			return $template->dri($extra);
+		}
+	}
+endif;
 
 require_once('gallery-typs.php');
 require_once('gallery-functions.php');

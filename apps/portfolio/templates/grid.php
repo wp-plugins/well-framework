@@ -1,5 +1,4 @@
 <?php
-global $wefr_portfolio_template_path;
 $isotope = new acoc_isotope_html(array('column'=>$column, 'margin'=>$column_margin));
 $portfolio_query = new WP_Query( $query );
 ?>
@@ -9,7 +8,7 @@ $portfolio_query = new WP_Query( $query );
     	<?php $isotope->start(); ?>
         	<?php while ( $portfolio_query->have_posts() ) : $portfolio_query->the_post(); ?>
             	<?php $isotope->in_loop_start( $isotope->post_tax_class(get_the_ID(), 'portwell_cat')); ?>
-                	<?php include($wefr_portfolio_template_path->dri().'content-portfolio.php'); ?>
+                	<?php include(portwellwell_gallery_template_path('dri', 'content-portfolio.php')); ?>
                 <?php $isotope->in_loop_end(); ?>
             <?php endwhile; ?>
         <?php $isotope->end(); ?>

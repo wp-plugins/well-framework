@@ -13,16 +13,27 @@ define('LOGOWELL_DRI', $path_dir );
 
 /* Setup Themplate File loader
 -------------------------------------------------*/
-$settings = array(
-	'child_url'  => get_stylesheet_directory_uri().'/well-framework/logos',
-	'theme_url'  => get_template_directory_uri().'/well-framework/logos/',
-	'plugin_url' => LOGOWELL_DRI.'template/',
-			
-	'child_dri'  => get_stylesheet_directory().'/well-framework/logos/',
-	'theme_dri'  => get_template_directory().'/well-framework/logos/',
-	'plugin_dri' => LOGOWELL_DRI.'template/',
-);
-$wefr_logos_template_path = new acoc_template_file_loader($settings);
+if(!function_exists('logowell_gallery_template_path')):
+	function logowell_gallery_template_path($type='url', $extra = ''){
+		$settings = array(
+			'child_url'  => get_stylesheet_directory_uri().'/well-framework/logos',
+			'theme_url'  => get_template_directory_uri().'/well-framework/logos/',
+			'plugin_url' => LOGOWELL_DRI.'templates/',
+					
+			'child_dri'  => get_stylesheet_directory().'/well-framework/logos/',
+			'theme_dri'  => get_template_directory().'/well-framework/logos/',
+			'plugin_dri' => LOGOWELL_DRI.'templates/',
+		);
+		$template = new acoc_template_file_loader($settings);
+		
+		if($type == 'url'){
+			return $template->url($extra);
+		}else{
+			return $template->dri($extra);
+		}
+	}
+endif;
+
 
 require_once('logos-typs.php');
 require_once('logos-functions.php');
