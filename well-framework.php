@@ -3,7 +3,7 @@
 Plugin Name: Well Framework
 Plugin URI: http://themeforest.net/user/bignet
 Description: A wordpress Plugin
-Version: 1.5.3
+Version: 1.5.4
 Author: Bignet
 Author URI: http://themeforest.net/user/bignet/portfolio
 
@@ -24,7 +24,7 @@ $path_abs = trailingslashit(str_replace('\\','/',ABSPATH));
 define('WEFR', 'Well Framwork' );
 define('WEFR_URL', site_url(str_replace( $path_abs, '', $path_dir )) );
 define('WEFR_DRI', $path_dir );
-define('WEFR_VERSION', 1.5 );
+define('WEFR_VERSION', '1.5.4' );
 
 if( !class_exists('cmb_Meta_Box') ){ require_once(WEFR_DRI.'includes/metabox-framework/init.php'); }
 if( !class_exists('CPT_columns') ){require_once(WEFR_DRI.'includes/CPT_columns/CPT_columns.php'); }
